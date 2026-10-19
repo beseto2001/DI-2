@@ -1,0 +1,13 @@
+prefix=/Users/simoncho/Desktop/DI-2/.conda
+exec_prefix=/Users/simoncho/Desktop/DI-2/.conda
+libdir=/Users/simoncho/Desktop/DI-2/.conda/lib
+sharedlibdir=/Users/simoncho/Desktop/DI-2/.conda/lib
+includedir=/Users/simoncho/Desktop/DI-2/.conda/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
