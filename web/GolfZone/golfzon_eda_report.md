@@ -66,7 +66,7 @@
 
 ### 이상치 분석
 
-! [이상치](images/02_outliers.png)
+![이상치](images/02_outliers.png)
 
 ## 정제 결과
 
