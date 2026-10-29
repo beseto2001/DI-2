@@ -1,0 +1,515 @@
+﻿ciCode,ccName,difficultyGreen,difficultyCc,address,logoImage,boardCount,ciVersion,district,country,holeCount,parCount,totalWidth,isVisionPlus,isNgs,isTvnx,isNxp,ciNight,realityYn,difficultyYn,isPopular,isFavorite,membership
+100000389,만쥬 GC,8,8,일본,http://uf.gzcdn.net/tournament/clientimages/202608/2414/41/8bee66cea96e4125ba6fe64e41babd53.jpg,0,2,0,2,18,72,6348,Y,Y,Y,Y,0,N,N,,,Y
+100001088,신요 CC,8,8,일본,http://uf.gzcdn.net/tournament/clientimages/202608/2414/39/ea06089a24f14e6c86f1f5d4b991932c.jpg,0,2,0,2,18,72,6370,Y,Y,Y,Y,0,N,N,,,Y
+100000377,이와테 누마쿠나이 CC,8,8,일본,http://uf.gzcdn.net/tournament/clientimages/202608/2414/36/21161bc505e14bc3bc3c9963d4bdf0dc.jpg,0,2,0,2,18,72,6415,Y,Y,Y,Y,0,N,N,,,Y
+100000381,카루이자와 코겐 GC,8,8,일본,http://uf.gzcdn.net/tournament/clientimages/202608/2414/38/dd1e4b25232f4a4c8c69d689ba6f42a6.jpg,0,2,0,2,18,72,6374,Y,Y,Y,Y,0,N,N,,,Y
+100001091,나라시노 CC - KING,8,8,일본,http://uf.gzcdn.net/tournament/clientimages/202609/1413/27/c5b3ce8780fe45d9ae85dd9c103eef27.jpg,0,2,0,2,18,72,6334,Y,Y,Y,Y,0,N,N,,,Y
+100001092,나라시노 CC - QUEEN,8,8,일본,http://uf.gzcdn.net/tournament/clientimages/202609/1413/28/190c1cf505e14bd1a7ec0b6e5f5c0992.jpg,0,2,0,2,18,72,5935,Y,Y,Y,Y,0,N,N,,,Y
+100001093,소부 CC - 소부 코스,8,8,일본,http://uf.gzcdn.net/tournament/clientimages/202609/1413/29/a26273dcac05448394c20f6bc2e013d1.jpg,0,2,0,2,18,72,6375,Y,Y,Y,Y,0,N,N,,,Y
+100001094,요넥스 CC,8,8,일본,http://uf.gzcdn.net/tournament/clientimages/202609/1413/30/161b609f51ea4281ae5072dbd2ff37f3.jpg,0,2,0,2,18,72,6307,Y,Y,Y,Y,0,N,N,,,Y
+100001087,칠곡 아이위시 CC,8,8,경상도,http://uf.gzcdn.net/tournament/clientimages/202608/2414/33/4eab4a1fe14b4a6bb0e667ef0567bbed.jpg,0,2,5,1,18,72,5979,Y,Y,Y,Y,0,N,N,100001087.0,,N
+100001080,군산 CC - 토너먼트,8,8,전라도,http://uf.gzcdn.net/tournament/clientimages/202608/0314/15/0fe4d816f05b455a9ad6a06d9e5b86b3.jpg,0,2,4,1,18,72,6639,Y,Y,Y,Y,0,N,N,,,N
+100001081,군산 CC - 전주/익산,8,8,전라도,http://uf.gzcdn.net/tournament/clientimages/202608/0314/16/951cd579c2dd48f7b13361c35aacd4a6.jpg,0,2,4,1,18,72,6539,Y,Y,Y,Y,0,N,N,,,N
+100001086,바나힐스 골프클럽,8,8,베트남,http://uf.gzcdn.net/tournament/clientimages/202608/0314/19/e3f41fd88b6d4562a79eaa10b3150ec6.jpg,0,2,0,16,18,72,7209,Y,Y,Y,Y,0,N,N,,,N
+100001084,블루캐니언 CC - 레이크,8,8,태국,http://uf.gzcdn.net/tournament/clientimages/202608/0314/17/c24ce44c536f4f6a95ed7d969061ae84.jpg,0,2,0,14,18,72,6484,Y,Y,Y,Y,0,N,N,,,N
+100001085,블루캐니언 CC - 캐니언,8,8,태국,http://uf.gzcdn.net/tournament/clientimages/202608/0314/18/1939a3bac3354aa88a68482109e759cf.jpg,0,2,0,14,18,72,6653,Y,Y,Y,Y,0,N,N,,,N
+100001082,수서 골프&리조트,8,8,경상도,http://uf.gzcdn.net/tournament/clientimages/202608/0314/16/12f187b034574e0784b743d29fc58a9d.jpg,0,2,5,1,18,72,5924,Y,Y,Y,Y,0,N,N,,,N
+100001083,일라이트 CC,8,8,충청도,http://uf.gzcdn.net/tournament/clientimages/202608/0314/17/aa400926d2024a50bece340d4fec095f.jpg,0,2,3,1,18,73,5844,Y,Y,Y,Y,0,N,N,100001083.0,,N
+100001066,오션힐스 영천 CC - 달/해,8,8,경상도,http://uf.gzcdn.net/tournament/clientimages/202607/1310/31/ba9fa1410e754804a3651e3e545cd1a7.jpg,0,2,5,1,18,73,6700,Y,Y,Y,Y,0,N,N,100001066.0,,N
+100001065,오션힐스 영천 CC - 별/달,8,8,경상도,http://uf.gzcdn.net/tournament/clientimages/202607/1310/30/f3da9cc2a7af410b9272ae4fd7e16c87.jpg,0,2,5,1,18,73,6686,Y,Y,Y,Y,0,N,N,100001065.0,,N
+100001064,오션힐스 영천 CC - 해/별,8,8,경상도,http://uf.gzcdn.net/tournament/clientimages/202607/1310/28/10420044667e4f76a766eb6b00fda91d.jpg,0,2,5,1,18,72,6756,Y,Y,Y,Y,0,N,N,100001064.0,,N
+100001067,중원 GC - 고구려/백제,8,8,충청도,http://uf.gzcdn.net/tournament/clientimages/202607/1310/33/9ac678ab68154dcf967f6a5b393e7098.jpg,0,2,3,1,18,71,5658,Y,Y,Y,Y,0,N,N,,,N
+100001068,중원 GC - 백제/신라,8,8,충청도,http://uf.gzcdn.net/tournament/clientimages/202607/1310/35/226f1f52f1284f2685f6fe243aad7d80.jpg,0,2,3,1,18,73,5926,Y,Y,Y,Y,0,N,N,100001068.0,,N
+100001069,중원 GC - 신라/고구려,8,8,충청도,http://uf.gzcdn.net/tournament/clientimages/202607/1310/36/ae40004823b14bda9df9a5350287c745.jpg,0,2,3,1,18,72,5880,Y,Y,Y,Y,0,N,N,,,N
+100001071,AI 천문봉 CC,8,8,가상CC,http://uf.gzcdn.net/tournament/clientimages/202607/1310/39/85e918a0f9514840b51088c0776a470b.jpg,0,2,0,7,18,71,7160,N,N,N,Y,0,Y,N,,,N
+100001076,그레이트 오크스 CC,8,8,미국,http://uf.gzcdn.net/tournament/clientimages/202606/2213/57/7c1d05862d134cccadf5fb03368ebcc2.jpg,0,2,0,4,18,71,5866,Y,Y,Y,Y,0,N,N,,,N
+100000364,다이 하코네 CC,8,8,일본,http://uf.gzcdn.net/tournament/clientimages/202606/2213/59/520b697174e1449d8e9f68111a2e11c1.jpg,0,2,0,2,18,73,6446,Y,Y,Y,Y,0,N,N,,,N
+100001073,더 클래식 GC,8,8,일본,http://uf.gzcdn.net/tournament/clientimages/202606/2213/53/d516e6807ce14d9d91ac5d8cac517ae7.jpg,0,2,0,2,18,72,6391,Y,Y,Y,Y,0,N,N,,,N
+100001074,레이크 머세드 GC,8,8,미국,http://uf.gzcdn.net/tournament/clientimages/202606/2213/54/b34c69538c72492b88692857dc580172.jpg,0,2,1,4,18,72,6240,Y,Y,Y,Y,0,N,N,,,N
+100001079,레이크 포레스트 - 센추리,8,8,일본,http://uf.gzcdn.net/tournament/clientimages/202606/2213/56/7671fc86675b41c3ab481180128e8d7c.jpg,0,2,0,2,18,72,6430,Y,Y,Y,Y,0,N,N,,,N
+100001078,세고비아 GC 인 치요다,8,8,일본,http://uf.gzcdn.net/tournament/clientimages/202606/2214/02/40e74226e40847d9b4faca824850e36f.jpg,0,2,0,2,18,72,6449,Y,Y,Y,Y,0,N,N,,,N
+102560000,세인트 앤드류스 - 뉴 코스,8,8,유럽,http://uf.gzcdn.net/tournament/clientimages/202606/2213/49/49784591809e4732a8cc892436c9e7c2.jpg,0,2,0,5,18,71,6136,Y,Y,Y,Y,0,N,N,,,N
+102564096,세인트 앤드류스 - 쥬빌리 코스,8,8,유럽,http://uf.gzcdn.net/tournament/clientimages/202606/2213/48/d2f9392cfffe4b3da59815ee0d822be5.jpg,0,2,0,5,18,72,6092,Y,Y,Y,Y,0,N,N,,,N
+100001072,오키드 CC,8,8,기타,http://uf.gzcdn.net/tournament/clientimages/202606/2213/51/50b72c97e9704c64b09e0a10265289aa.jpg,0,2,0,6,27,109,9685,Y,Y,Y,Y,0,N,N,,,N
+100001077,J골프 카스미가우라,8,8,일본,http://uf.gzcdn.net/tournament/clientimages/202606/2213/58/68ae3d54abdb4837872efabed6704daa.jpg,0,2,0,2,18,72,6478,Y,Y,Y,Y,0,N,N,,,N
+100001060,로얄 포트러시 GC - 던루스 링크스,5,9,기타,http://uf.gzcdn.net/tournament/clientimages/202605/1809/29/a72ba993fd23451eb8433ba7c8cec274.jpg,0,2,0,6,18,72,6682,Y,Y,Y,Y,0,N,N,,,N
+100001059,타이헤이요 클럽 - 고텐바,6,9,일본,http://uf.gzcdn.net/tournament/clientimages/202605/1809/27/ed8dd8e4b4704c238e131a07a497d601.jpg,0,2,0,2,18,72,6621,Y,Y,Y,Y,0,N,N,,,N
+100001061,프레리 듄스 CC,5,8,미국,http://uf.gzcdn.net/tournament/clientimages/202605/1809/30/ba12aa1fdbdd4dfea47eb74dceba000c.jpg,0,2,0,4,18,72,6323,Y,Y,Y,Y,0,N,N,,,N
+100001063,플라밍고 CC - 듄스/리버,7,2,충청도,http://uf.gzcdn.net/tournament/clientimages/202605/1809/35/e9f98502d463458a8bdd37269b7f1b7a.jpg,0,2,3,1,18,72,6218,Y,Y,Y,Y,0,N,N,100001063.0,,N
+100001062,피닉스 골드 골프&컨트리클럽,8,10,태국,http://uf.gzcdn.net/tournament/clientimages/202605/1809/31/9ca7c40697c84ccc989e982ffa387845.jpg,0,2,0,14,27,108,9406,Y,Y,Y,Y,0,N,N,,,N
+100001058,티헤라스 크릭 GC,6,7,미국,http://uf.gzcdn.net/tournament/clientimages/202604/1313/25/d130b416a73d4aa7b3037635523fa99d.jpg,0,2,0,4,18,72,6255,Y,Y,Y,Y,0,N,N,,,N
+102228256,파인스톤 CC,5,3,충청도,http://uf.gzcdn.net/tournament/clientimages/202604/1313/27/f02c0aed09414685aeb17adbec44c29d.jpg,0,2,3,1,18,72,6587,Y,Y,Y,Y,0,Y,N,,,N
+100001057,포라이즌 - 가든/스카이,8,5,전라도,http://uf.spazon.com/tournament/clientimages/202603/1110/09/4dc0663df6a24f6d99d106e47619fc3b.jpg,0,2,4,1,18,72,6458,Y,Y,Y,Y,0,Y,N,,,N
+100001056,포라이즌 - 베이/가든,8,6,전라도,http://uf.gzcdn.net/tournament/clientimages/202604/1313/16/0c6c96e54a4543d297f3b4f693a7170f.jpg,0,2,4,1,18,72,6294,Y,Y,Y,Y,0,Y,N,,,N
+100001055,포라이즌 - 스카이/베이,9,6,전라도,http://uf.gzcdn.net/tournament/clientimages/202604/1311/10/79e0cb8d3645420487d61f0de65ee3f7.jpg,0,2,4,1,18,72,6520,Y,Y,Y,Y,0,Y,N,,,N
+100001052,용원 GC - 무학/백구,5,5,경상도,http://uf.gzcdn.net/tournament/clientimages/202603/0909/32/62bb0f60c27b49e5aaf58d5c537be120.jpg,0,2,5,1,18,72,6207,Y,Y,Y,Y,0,Y,N,,,N
+100001053,용원 GC - 백구/백로,4,3,경상도,http://uf.gzcdn.net/tournament/clientimages/202603/0909/32/26ce4312235b4834910dd73fcadef81a.jpg,1,2,5,1,18,72,6071,Y,Y,Y,Y,0,Y,N,,,N
+100001051,용원 GC - 백로/무학,5,4,경상도,http://uf.gzcdn.net/tournament/clientimages/202603/0909/32/babaa3bbc9d3423e91355dc54775c8f2.jpg,24,2,5,1,18,72,6112,Y,Y,Y,Y,0,Y,N,,,N
+100001049,군자리 CC,6,10,가상CC,http://uf.gzcdn.net/tournament/clientimages/202602/0609/17/648ad96fad134beda51e1ffaaf73ca41.jpg,0,2,0,7,18,72,6180,Y,Y,Y,Y,0,N,N,,,N
+100001048,오르비스 GC,8,9,경상도,http://uf.gzcdn.net/tournament/clientimages/202602/0609/16/bea0f0886e9548c3ba2b16d5731a6258.jpg,0,2,5,1,18,72,6204,Y,Y,Y,Y,1,Y,N,,,N
+100001047,크리스탈밸리 CC,8,10,수도권,http://uf.spazon.com/tournament/clientimages/202512/1811/19/6fddac087a85474e9776d366a5abecf7.jpg,0,2,1,1,18,72,6419,Y,Y,Y,Y,0,N,N,,,N
+100001054,동강시스타 CC,8,8,강원도,http://uf.gzcdn.net/tournament/clientimages/202603/0909/32/4df52cae018d40769568ea05301dc70f.jpg,2,2,2,1,18,72,5540,Y,Y,Y,Y,0,N,N,,,N
+100001045,아난티 중앙 - 레이크/스카이,6,6,충청도,http://uf.gzcdn.net/tournament/clientimages/202512/1509/47/e03dbec8048246288959948e232d647f.jpg,3,2,3,1,18,72,5562,Y,Y,Y,Y,0,N,N,,,N
+100001044,아난티 중앙 - 마운틴/레이크,6,5,충청도,http://uf.gzcdn.net/tournament/clientimages/202512/1509/47/16694346e2b24c39925c267432228d0c.jpg,0,2,3,1,18,71,5445,Y,Y,Y,Y,0,N,N,,,N
+100001046,아난티 중앙 - 스카이/마운틴,6,3,충청도,http://uf.gzcdn.net/tournament/clientimages/202512/1509/48/074e334b7c7b4bd2a8657661987e48ff.jpg,0,2,3,1,18,71,5355,Y,Y,Y,Y,0,N,N,,,N
+100001041,탄란 골프클럽,9,10,베트남,http://uf.spazon.com/tournament/clientimages/202509/2410/07/836cfff8a2744d619b4506ffda594dc6.jpg,0,2,0,16,18,72,6652,Y,Y,Y,Y,0,N,N,,,N
+100001038,이글몬트 CC - 몬트/히든,8,4,수도권,http://uf.gzcdn.net/tournament/clientimages/202511/2411/11/fe49e6503dc544e28ed2516aa130ffca.jpg,0,2,1,1,18,72,5793,Y,Y,Y,Y,0,N,N,,,N
+100001037,이글몬트 CC - 이글/몬트,8,6,수도권,http://uf.gzcdn.net/tournament/clientimages/202511/2411/09/0b87f6db2aa041d0b0e5ff21eb60dee4.jpg,6,2,1,1,18,72,6242,Y,Y,Y,Y,0,N,N,,,N
+100001039,이글몬트 CC - 히든/이글,8,5,수도권,http://uf.gzcdn.net/tournament/clientimages/202511/2411/12/2e77968f89e94d3686e7d719d6f7f175.jpg,0,2,1,1,18,72,6079,Y,Y,Y,Y,0,N,N,,,N
+100001040,크리스밸리 CC,10,8,수도권,http://uf.gzcdn.net/tournament/clientimages/202511/2411/13/0002497b21a64b17ba699a21df6159a9.jpg,19,2,1,1,18,72,6205,Y,Y,Y,Y,0,N,N,,,N
+100000761,해내다 CC - 마운틴/밸리,9,9,경상도,http://uf.gzcdn.net/tournament/clientimages/202511/2411/17/0496de23f65f4a0285ac8681703c1bb2.jpg,0,2,5,1,18,73,6699,Y,Y,Y,Y,0,Y,N,,,N
+100000762,해내다 CC - 밸리/스카이,9,7,경상도,http://uf.gzcdn.net/tournament/clientimages/202511/2411/17/a46da54fc8f14ebf86e3548c313b2abb.jpg,0,2,5,1,18,72,6417,Y,Y,Y,Y,0,Y,N,,,N
+100000760,해내다 CC - 스카이/마운틴,9,8,경상도,http://uf.gzcdn.net/tournament/clientimages/202511/2411/18/950c5eda1e674387957779b5378c7194.jpg,2,2,5,1,18,73,6906,Y,Y,Y,Y,0,Y,N,,,N
+100001035,셔우드 힐스 골프클럽,5,8,필리핀,http://uf.gzcdn.net/tournament/clientimages/202509/2210/44/2997e9d40fee47ce9f76e9053df25d4b.jpg,0,2,0,21,18,72,6710,Y,Y,Y,Y,0,N,N,,,N
+100001034,오로라 골프&리조트,8,6,강원도,http://uf.gzcdn.net/tournament/clientimages/202604/1313/31/a07d4ca973d747f7a45c30891fd79142.jpg,1,2,2,1,18,72,6187,Y,Y,Y,Y,0,N,N,,,N
+100001036,GTOUR AI 볼케이노,7,10,가상CC,http://uf.gzcdn.net/tournament/clientimages/202509/2210/53/a0d961704b094daf83f7c3cdbe3bdc2e.jpg,1,2,0,7,18,72,6939,Y,Y,Y,Y,0,N,N,,,N
+100001018,뉴욕 센트럴파크 GC,2,5,가상CC,http://uf.gzcdn.net/tournament/clientimages/202505/2609/14/db83c412853d42ed98b3e433f87f039a.jpg,0,2,0,7,18,72,7004,Y,Y,Y,Y,0,N,N,,,N
+100000348,베스페이지-블랙코스,2,8,미국,http://uf.gzcdn.net/tournament/clientimages/202504/2810/36/d2420dafd74e4812b7cf64ad49c3adf9.jpg,0,2,0,4,18,71,6885,Y,Y,Y,Y,0,Y,N,,,N
+100001028,블루원 상주 골프리조트,8,8,경상도,http://uf.gzcdn.net/tournament/clientimages/202508/0609/53/424fa2bb32f3452da773dc52b5b24599.jpg,3,2,5,1,18,72,6792,Y,Y,Y,Y,0,Y,N,100001028.0,,N
+100001030,블루원 용인 CC - 동/서,8,7,수도권,http://uf.gzcdn.net/tournament/clientimages/202508/0610/04/61baec26616141fcac78fab9f6d30769.jpg,0,2,1,1,18,72,6008,Y,Y,Y,Y,0,N,N,,,N
+100001029,블루원 용인 CC - 서/중,7,5,수도권,http://uf.gzcdn.net/tournament/clientimages/202508/0610/03/db90808ef276491db814470c2440b614.jpg,0,2,1,1,18,72,6203,Y,Y,Y,Y,0,N,N,,,N
+100001031,선저우 페닌슐라 GC - Dunes West,2,7,중국,http://uf.gzcdn.net/tournament/clientimages/202508/0610/05/d536e43ff98247c5b9aa96f75177d574.jpg,0,2,0,3,18,72,6856,Y,Y,Y,Y,0,N,N,,,N
+100001012,콜로라도 골프 클럽,5,10,미국,http://uf.gzcdn.net/tournament/clientimages/202503/2411/04/e3551c3608414bae8e0f4fe08a5c0a4e.jpg,0,2,0,4,18,72,6921,Y,Y,Y,Y,0,Y,N,,,N
+100001021,트럼프 내셔널 GC 콜츠 넥,3,3,미국,http://uf.gzcdn.net/tournament/clientimages/202505/2609/16/da7cc8bd67434d078b614247701d336f.jpg,0,2,0,4,18,72,6939,Y,Y,Y,Y,0,Y,N,,,N
+100001032,하모니 골프 파크,8,8,베트남,http://uf.gzcdn.net/tournament/clientimages/202508/0610/06/90e4e5dda40c4393bbcb6896416f5e4f.jpg,0,2,0,16,18,72,6622,Y,Y,Y,Y,0,N,N,,,N
+100001027,해운대 CC - GOLDEN/ROYAL,8,10,경상도,http://uf.gzcdn.net/tournament/clientimages/202506/2410/10/d6cb7d805b214981a7cb88b11f0c8355.jpg,0,2,5,1,18,72,6693,Y,Y,Y,Y,0,Y,N,,,N
+100001025,해운대 CC - ROYAL/SILK,8,9,경상도,http://uf.gzcdn.net/tournament/clientimages/202506/2410/10/792947c48ced48adaeae1b94774ba112.jpg,0,2,5,1,18,72,6675,Y,Y,Y,Y,0,Y,N,,,N
+100001026,해운대 CC - SILK/GOLDEN,8,10,경상도,http://uf.gzcdn.net/tournament/clientimages/202506/2410/10/42adebd0baab4127ab763272da41cef7.jpg,0,2,5,1,18,72,6698,Y,Y,Y,Y,0,Y,N,,,N
+100001033,GTOUR 레이크,8,10,가상CC,http://uf.gzcdn.net/tournament/clientimages/202508/0610/07/a368c8646d424acb947b2c0a7212c2ea.jpg,0,2,0,7,18,72,6833,Y,Y,Y,Y,0,N,N,,,N
+100001023,서산수 골프앤리조트,7,6,충청도,http://uf.gzcdn.net/tournament/clientimages/202506/2409/29/c1312e93d9b449e1a6bc40feaf2d55ba.jpg,4,2,3,1,18,72,6288,Y,Y,Y,Y,0,N,N,,,N
+100001024,썬밸리 CC (일죽),8,9,충청도,http://uf.gzcdn.net/tournament/clientimages/202506/2409/30/ed6a46c9742e41e59a24f580fe3580c5.jpg,4,2,3,1,18,72,6349,Y,Y,Y,Y,0,N,N,,,N
+100001019,벨라 45 CC - 오너스A/오너스B,7,4,강원도,http://uf.gzcdn.net/tournament/clientimages/202505/2609/15/702eb9377b3044daacbd014d9f40076b.jpg,1,2,2,1,18,72,6296,Y,Y,Y,Y,0,Y,N,,,N
+100001020,비에이비스타 CC - 몬티/벨라,6,3,수도권,http://uf.gzcdn.net/tournament/clientimages/202505/2609/15/7f022f45e5504947a692cf284df65943.jpg,4,2,1,1,18,72,5414,Y,Y,Y,Y,0,Y,N,,,N
+100001013,라오라오베이 골프 리조트 - EAST,5,6,미국,http://uf.gzcdn.net/tournament/clientimages/202504/2810/32/bfda2ad291aa4fc5a565755b6b57db10.jpg,1,2,0,4,18,72,5785,Y,Y,Y,Y,0,N,N,,,N
+100001014,라오라오베이 골프 리조트 - WEST,6,8,미국,http://uf.gzcdn.net/tournament/clientimages/202504/2810/33/e47b2c616303466bbe4f6728d76c14f0.jpg,0,2,0,4,18,72,6411,Y,Y,Y,Y,0,N,N,,,N
+100001015,사츠마 골프리조트,9,9,일본,http://uf.gzcdn.net/tournament/clientimages/202504/2810/33/801903fea48a407b9b226957ead5c8ef.jpg,0,2,0,2,18,72,6364,Y,Y,Y,Y,0,N,N,,,N
+100001016,피닉스 골드 골프 방콕 ,10,10,태국,http://uf.gzcdn.net/tournament/clientimages/202504/2810/33/69db373f2b69419ab5755abe4610db7f.jpg,0,2,0,14,18,72,6553,Y,Y,Y,Y,0,N,N,,,N
+100001011,설악 썬밸리 CC - 밸리/설악,6,3,강원도,http://uf.gzcdn.net/tournament/clientimages/202503/2411/03/ce9b8505a8ac442ea782285d20504ee6.jpg,0,2,2,1,18,72,6502,Y,Y,Y,Y,0,Y,N,,,N
+100001009,설악 썬밸리 CC - 설악/썬,6,4,강원도,http://uf.gzcdn.net/tournament/clientimages/202503/2411/03/e766300f4d8b46f99613e92bd5a9b532.jpg,0,2,2,1,18,72,6635,Y,Y,Y,Y,0,Y,N,,,N
+100001010,설악 썬밸리 CC - 썬/밸리,6,3,강원도,http://uf.gzcdn.net/tournament/clientimages/202503/2411/03/2b7b612ca57e45fd93705e214875f14a.jpg,1,2,2,1,18,72,6287,Y,Y,Y,Y,0,Y,N,,,N
+100001005,알파인 골프리조트 치앙마이,9,10,태국,http://uf.gzcdn.net/tournament/clientimages/202503/2410/58/94cb48105af34daf98fbd2194adfe745.jpg,0,2,0,14,27,108,10084,Y,Y,Y,Y,0,N,N,,,N
+100001008,오투 골프&리조트 - 백두/함백,8,9,강원도,http://uf.gzcdn.net/tournament/clientimages/202503/2411/02/a3f10e3c358d44c98b814cf2e040e869.jpg,7,2,2,1,18,72,6137,Y,Y,Y,Y,0,N,N,,,N
+100001007,오투 골프&리조트 - 태백/백두,7,9,강원도,http://uf.gzcdn.net/tournament/clientimages/202503/2411/01/aad5c9e98cad4b07b4e77749d37df7a4.jpg,0,2,2,1,18,72,6201,Y,Y,Y,Y,0,N,N,,,N
+100001006,오투 골프&리조트 - 함백/태백,8,10,강원도,http://uf.gzcdn.net/tournament/clientimages/202503/2410/59/b15139ef86d74bc796a873052f23aaf6.jpg,0,2,2,1,18,72,6514,Y,Y,Y,Y,0,N,N,,,N
+100000998,김제 스파힐스 CC,9,8,전라도,http://uf.gzcdn.net/tournament/clientimages/202503/0615/59/459002d5a7c9486d820db689ad7ffc90.jpg,4,2,4,1,18,72,5914,Y,Y,Y,Y,1,Y,N,,,N
+100000999,로드힐스 골프&리조트 - 힐스/로드,8,8,강원도,http://uf.gzcdn.net/tournament/clientimages/202503/0615/59/cacca585d7f246a79055bedd5cec647b.jpg,0,2,2,1,18,72,6098,Y,Y,Y,Y,0,N,N,,,N
+100001000,샴발라 CC,7,9,수도권,http://uf.gzcdn.net/tournament/clientimages/202503/0616/00/a8e041cd6a07481fa41917193f0db875.jpg,1,2,1,1,18,72,6269,Y,Y,Y,Y,0,Y,N,,,N
+100001004,해피니스 CC - HIDDEN/HEALING,9,8,전라도,http://uf.gzcdn.net/tournament/clientimages/202503/0616/02/e6f94cfec92e451aa765dcb173dfcee5.jpg,2,2,4,1,18,72,6220,Y,Y,Y,Y,0,N,N,,,N
+100000987,더크로스비 GC - 샬롯/아리아,8,6,수도권,http://uf.gzcdn.net/tournament/clientimages/202501/2111/04/b7a7af24786c4a3baa8b742ca62e4f28.jpg,0,2,1,1,18,72,6151,Y,Y,Y,Y,0,N,N,,,N
+102294272,스톤비치 CC,8,9,충청도,http://uf.gzcdn.net/tournament/clientimages/202501/2111/13/7db1ec4f44d54022b4c13887041254ff.jpg,73,2,3,1,18,72,6368,Y,Y,Y,Y,0,N,N,,,N
+100000990,지산 CC - 남/서,9,8,수도권,http://uf.gzcdn.net/tournament/clientimages/202501/2111/05/2124693bfd944214916e92cda85be793.jpg,0,2,1,1,18,72,6309,Y,Y,Y,Y,0,Y,N,,,N
+100000989,지산 CC - 동/남,9,8,수도권,http://uf.gzcdn.net/tournament/clientimages/202501/2111/05/960e81644d95495b9290fef6cec15698.jpg,0,2,1,1,18,72,6285,Y,Y,Y,Y,0,Y,N,,,N
+100000991,지산 CC - 서/동,9,7,수도권,http://uf.gzcdn.net/tournament/clientimages/202501/2111/07/3cebfcedb1694c468c8bd519ff640200.jpg,1,2,1,1,18,72,6272,Y,Y,Y,Y,0,Y,N,,,N
+100001097,YJC GC - 드림/에이스,5,8,수도권,http://uf.gzcdn.net/tournament/clientimages/202609/1413/56/7f5d465840834ddc89f88cf659fd4898.jpg,0,2,1,1,18,72,6198,Y,Y,Y,Y,0,Y,N,,,N
+100001098,YJC GC - 에이스/챌린지 ,6,9,수도권,http://uf.gzcdn.net/tournament/clientimages/202609/1413/57/4dd94bac186b4af9a74b132149a0890a.jpg,0,2,1,1,18,72,6205,Y,Y,Y,Y,0,Y,N,,,N
+100001096,YJC GC - 챌린지/드림,6,8,수도권,http://uf.gzcdn.net/tournament/clientimages/202609/1413/56/3d9a99dca4ec459eb341d0d212782f26.jpg,0,2,1,1,18,72,6167,Y,Y,Y,Y,0,Y,N,,,N
+100000983,베버리 플레이스 GC,7,8,필리핀,http://uf.gzcdn.net/tournament/clientimages/202412/1611/19/ba256474708b418db4ba8f5116dba08d.jpg,0,2,0,21,18,71,5754,Y,Y,Y,Y,0,N,N,,,N
+100000984,오너스 GC,7,8,강원도,http://uf.gzcdn.net/tournament/clientimages/202412/1611/19/52efd1be4c9846b0950d1e46e352a70b.jpg,4,2,2,1,18,72,6421,Y,Y,Y,Y,0,Y,N,,,N
+100000977,골프존카운티 영암45 - 카일필립스,5,6,전라도,http://uf.spazon.com/tournament/clientimages/202411/0611/27/6bfff1da6d0d48818dc9ef847a8d386c.jpg,2,2,4,1,18,72,6854,Y,Y,Y,Y,0,Y,N,,,N
+100000981,마이다스레이크 이천 - 마이다스/올림푸스,7,7,수도권,http://uf.gzcdn.net/tournament/clientimages/202411/2710/25/2ca491080b9342d0bf7d3bfb0171a58f.jpg,1,2,1,1,18,72,6535,Y,Y,Y,Y,0,N,N,,,N
+100000979,마이다스레이크 이천 - 올림푸스/타이탄,7,6,수도권,http://uf.gzcdn.net/tournament/clientimages/202411/2710/25/ea1166f375504972a2974242d4055b12.jpg,0,2,1,1,18,72,6542,Y,Y,Y,Y,0,N,N,,,N
+100000980,마이다스레이크 이천 - 타이탄/마이다스,8,7,수도권,http://uf.gzcdn.net/tournament/clientimages/202411/2710/25/bd162bcb23874eea9c2fd551cfadc5e4.jpg,2,2,1,1,18,72,6523,Y,Y,Y,Y,0,N,N,,,N
+100000982,울진마린 CC,6,7,경상도,http://uf.gzcdn.net/tournament/clientimages/202411/2710/24/b7c119e02c8d47cb8ab914d72951f0cc.jpg,0,2,5,1,18,72,6464,Y,Y,Y,Y,0,N,N,,,N
+100000974,로드힐스 골프&리조트 - 레이크/힐스,8,8,강원도,http://uf.gzcdn.net/tournament/clientimages/202411/0502/38/eab34c1bbf0c42efae9d3ce73f4eb6e1.jpg,0,2,2,1,18,72,6329,Y,Y,Y,Y,0,N,N,,,N
+100000973,로드힐스 골프&리조트 - 로드/레이크,7,8,강원도,http://uf.gzcdn.net/tournament/clientimages/202411/0502/38/30fefe80040649abb8f233ea9a167a72.jpg,0,2,2,1,18,72,6177,Y,Y,Y,Y,0,N,N,,,N
+100000972,마이다스밸리 청평 GC,8,8,수도권,http://uf.gzcdn.net/tournament/clientimages/202411/0502/38/a53c3c29c78e41a19ecb02da8a3ce54b.jpg,1,2,1,1,18,72,6345,Y,Y,Y,Y,0,Y,N,,,N
+100000975,비에이비스타 CC - 보나/호박,6,4,수도권,http://uf.gzcdn.net/tournament/clientimages/202411/0502/38/89137fe4d75a45f9a347c6585e325df0.jpg,1,2,1,1,18,72,5042,Y,Y,Y,Y,1,Y,N,,,N
+100000976,코스모스 링스,8,10,전라도,http://uf.gzcdn.net/tournament/clientimages/202411/0502/38/f8a11838e3e44c09ab1a12aa0e0da2a3.jpg,0,2,4,1,18,72,6763,Y,Y,Y,Y,0,N,N,,,N
+100000969,더크로스비 GC - 빌리/샬롯,8,5,수도권,http://uf.gzcdn.net/tournament/clientimages/202409/2411/34/daae24e052e246cf9eb5db5f9406ac02.jpg,8,2,1,1,18,72,5971,Y,Y,Y,Y,0,N,N,,,N
+100000968,더크로스비 GC - 아리아/빌리,8,5,수도권,http://uf.gzcdn.net/tournament/clientimages/202411/0507/06/94598b388d06453eb6d2fe980cd460d5.jpg,0,2,1,1,18,72,6096,Y,Y,Y,Y,0,N,N,,,N
+100000970,비에이비스타 CC - 비스타/라고,5,7,수도권,http://uf.gzcdn.net/tournament/clientimages/202411/0507/07/2c27b59e02974048a9f5c5f15563f246.jpg,10,2,1,1,18,72,6021,Y,Y,Y,Y,1,Y,N,,,N
+100000971,아놀드 파머 베이힐 GC,3,9,미국,http://uf.gzcdn.net/tournament/clientimages/202504/2810/36/22c339c6970b410fa16dd8ad6cf577b1.jpg,0,2,0,4,18,72,6743,Y,Y,Y,Y,0,Y,N,,,N
+100000963,마우나오션 CC - 마우나/블루,8,8,경상도,http://uf.spazon.com/course/info/202408/0714/55/d3d9868278f94b15a6c38f76f91db9ed.png,0,2,5,1,18,72,6300,Y,Y,Y,Y,0,Y,N,,,N
+100000964,마우나오션 CC - 블루/오션,7,7,경상도,http://uf.spazon.com/course/info/202408/0714/55/a03ba2252e3e418b9d6ed9b9797269f8.png,1,2,5,1,18,72,6212,Y,Y,Y,Y,1,Y,N,,,N
+100000965,마우나오션 CC - 오션/마우나,7,8,경상도,http://uf.spazon.com/course/info/202408/0710/24/a29ca76de4284b6fbbe35799fa2051ca.png,0,2,5,1,18,72,5992,Y,Y,Y,Y,0,Y,N,,,N
+100000960,포도 CC - 샤인/포도,5,7,경상도,http://uf.spazon.com/tournament/clientimages/202410/0713/46/ff4f31a4b6784068ad6757f67d9f36cc.jpg,0,2,5,1,18,72,6560,Y,Y,Y,Y,1,N,N,,,N
+100000962,포도 CC - 자두/샤인,5,7,경상도,http://uf.spazon.com/tournament/clientimages/202408/0710/16/edc14f4b7108434f82d88418ab8b283d.jpg,6,2,5,1,18,72,6021,Y,Y,Y,Y,1,N,N,,,N
+100000961,포도 CC - 포도/자두,5,8,경상도,http://uf.spazon.com/tournament/clientimages/202408/0710/15/af9fd1975825435ca6138fb249c475ac.jpg,0,2,5,1,18,72,6381,Y,Y,Y,Y,0,N,N,,,N
+100000957,플라밍고 CC - 링크스/파크,7,4,충청도,http://uf.gzcdn.net/tournament/clientimages/202408/2706/16/8c86f2d1ca8d4414a148e976392c9016.jpg,1,2,3,1,18,72,6019,Y,Y,Y,Y,0,N,N,,,N
+100000956,GTOUR 포레스트 ,7,9,가상CC,http://uf.gzcdn.net/course/info/202407/3004/08/52f2fb7d7bf94005ad828742ba26e7a8.jpg,0,2,0,7,18,72,6880,Y,Y,Y,Y,0,N,N,,,N
+100000947,그린필드 CC,7,9,제주도,http://uf.gzcdn.net/course/info/202407/0204/45/058dacfed9954b35bd02f921aed316ab.jpg,0,2,6,1,18,72,6439,Y,Y,Y,Y,0,Y,N,,,N
+100000952,스릭슨 브레이브 CC - 스릭슨/젝시오,9,9,가상CC,http://uf.gzcdn.net/course/info/202407/0204/51/2dd8b9fffb724a9ab97509af6676c1c4.jpg,0,2,0,7,18,72,6724,Y,Y,Y,Y,0,N,N,,,N
+100000953,스릭슨 브레이브 CC - 스릭슨/클리브랜드,7,9,가상CC,http://uf.gzcdn.net/course/info/202407/0204/55/7ee75dac536e44168db84c09488d6a4c.jpg,0,2,0,7,18,72,6433,Y,Y,Y,Y,0,N,N,,,N
+100000949,힐데스하임 CC - HILL/VALLEY,6,2,충청도,http://uf.gzcdn.net/tournament/clientimages/202411/0507/19/eabd9d47b81845d99e83f99f3c5358e0.jpg,15,2,3,1,18,72,6139,Y,Y,Y,Y,1,Y,N,,,N
+100000948,힐데스하임 CC - LAKE/HILL,7,2,충청도,http://uf.gzcdn.net/tournament/clientimages/202411/0507/19/a4cca8cc5eb44421bed0a6de3fd0e424.jpg,0,2,3,1,18,72,5980,Y,Y,Y,Y,1,Y,N,,,N
+100000950,힐데스하임 CC - VALLEY/LAKE,6,2,충청도,http://uf.gzcdn.net/tournament/clientimages/202411/0507/19/5b0ab8fea1fb4471b7e34e6c6faf14ab.jpg,1,2,3,1,18,72,5997,Y,Y,Y,Y,1,Y,N,,,N
+100000951,GTOUR 파인,9,10,가상CC,http://uf.gzcdn.net/course/info/202407/0204/50/f2565c4caed64cdd912addf2698e8788.jpg,0,2,0,7,18,72,6834,Y,Y,Y,Y,0,N,N,,,N
+100000939,모카 CC,7,7,충청도,http://uf.gzcdn.net/tournament/clientimages/202605/1903/54/bb7db7bf2b984532a683f6bb63a1aeb5.jpg,0,2,3,1,18,72,5971,Y,Y,Y,Y,0,N,N,,,N
+100000943,벨라 45 CC - 마스터즈C/마스터즈D,5,3,강원도,http://uf.gzcdn.net/course/info/202405/2804/52/7012422920e544f9a42497993a3bc8a1.jpg,0,2,2,1,18,72,6348,Y,Y,Y,Y,0,Y,N,,,N
+100000944,벨라 45 CC - 마스터즈D/마스터즈E,7,2,강원도,http://uf.gzcdn.net/course/info/202405/2804/53/c550cd5cba1b4b1d9fc84ac70de4e59a.jpg,5,2,2,1,18,72,6088,Y,Y,Y,Y,0,Y,N,,,N
+100000945,벨라 45 CC - 마스터즈E/마스터즈C,6,4,강원도,http://uf.gzcdn.net/course/info/202405/2804/54/abaf65dc116f4937b52b8ba15760df1f.jpg,1,2,2,1,18,72,6446,Y,Y,Y,Y,0,Y,N,,,N
+100000941,울산 CC - 남/서,4,9,경상도,http://uf.gzcdn.net/course/info/202405/2804/49/b01a52e2419f44aead39459cecc5d564.jpg,0,2,5,1,18,72,6154,Y,Y,Y,Y,0,Y,N,,,N
+100000940,울산 CC - 동/남,4,9,경상도,http://uf.gzcdn.net/course/info/202405/2804/48/5034ee5f01ae4fe9aa71321fde42cf7b.jpg,0,2,5,1,18,72,6251,Y,Y,Y,Y,1,Y,N,,,N
+100000942,울산 CC - 서/동,4,9,경상도,http://uf.gzcdn.net/course/info/202405/2804/50/eeadb19e40af4cbf806612d4149431f2.jpg,0,2,5,1,18,72,6101,Y,Y,Y,Y,0,Y,N,,,N
+100000946,GTOUR 힐,7,10,가상CC,http://uf.gzcdn.net/course/info/202405/2804/55/f727756dde0844af9924ec3a859ea7ff.jpg,0,2,0,7,18,72,6831,Y,Y,Y,Y,0,N,N,,,N
+100000935,어등산 CC - 송정/하남,7,7,전라도,http://uf.gzcdn.net/course/info/202404/3004/39/85e7d392686446a5931bc3f56d9fee76.jpg,0,2,4,1,18,72,6807,Y,Y,Y,Y,0,Y,N,,,N
+100000934,어등산 CC - 어등/송정,7,8,전라도,http://uf.gzcdn.net/course/info/202404/3004/39/12e57265eac442cf93e9e3ab80a99bce.jpg,0,2,4,1,18,72,6729,Y,Y,Y,Y,1,Y,N,,,N
+100000936,어등산 CC - 하남/어등,8,8,전라도,http://uf.gzcdn.net/course/info/202404/3004/38/12c7bf6f66f34890a012fa98e021946f.jpg,0,2,4,1,18,72,6768,Y,Y,Y,Y,0,Y,N,,,N
+100000937,에스파크 CC,4,9,경상도,http://uf.gzcdn.net/tournament/clientimages/202411/0510/05/a5c5fc492a364812b98964c8b4dd3126.jpg,17,2,5,1,18,72,6521,Y,Y,Y,Y,0,Y,N,,,N
+100000938,GTOUR 가든,5,8,가상CC,http://uf.gzcdn.net/course/info/202404/3004/42/7d6cd304dfed46f7b0e8353711cf5db8.jpg,0,2,0,7,18,72,7030,Y,Y,Y,Y,0,N,N,,,N
+100000929,모나크 CC,6,4,충청도,http://uf.gzcdn.net/tournament/clientimages/202411/0510/52/37f12f8cf32b475fa4e8dd0ac0bd7587.jpg,0,2,3,1,18,72,6454,Y,Y,Y,Y,0,Y,N,,,N
+100000931,백제 CC - 사비/한성,8,5,충청도,http://uf.gzcdn.net/tournament/clientimages/202411/0608/32/c2342482b501402098178c381d62c905.jpg,0,2,3,1,18,72,6451,Y,Y,Y,Y,1,Y,N,,,N
+100000930,백제 CC - 웅진/사비,8,7,충청도,http://uf.gzcdn.net/tournament/clientimages/202411/0510/53/bb6ed348c70d4cadaa29064fa5dd155c.jpg,0,2,3,1,18,72,6585,Y,Y,Y,Y,1,Y,N,,,N
+100000932,백제 CC - 한성/웅진,8,6,충청도,http://uf.gzcdn.net/tournament/clientimages/202411/0608/32/e6812dde706c4e0b92ea47b4daa81e4c.jpg,0,2,3,1,18,72,6520,Y,Y,Y,Y,1,Y,N,,,N
+100000933,아벨 CC (구. 칼레이트),9,9,경상도,http://uf.gzcdn.net/tournament/clientimages/202608/2510/24/ca6642aab8054d8eb108ab63dcc39f9c.jpg,1,2,5,1,18,72,6284,Y,Y,Y,Y,1,N,N,,,N
+100000926,이글릿지 CC - 닉팔도,9,10,필리핀,http://uf.spazon.com/course/info/202402/0209/57/08fcd8425e59458890848dfa245fd123.jpg,0,2,0,21,18,72,6652,Y,Y,Y,Y,0,N,N,,,N
+100000925,이글릿지 CC - 앤디다이(파인힐스),7,10,필리핀,http://uf.spazon.com/course/info/202402/0209/58/c1e0e50636754000afae6365d20411b3.jpg,0,2,0,21,18,72,6555,Y,Y,Y,Y,0,N,N,,,N
+100000927,프라데라 CC,5,9,필리핀,http://uf.spazon.com/course/info/202402/0209/57/c27b9d9d01dc47b7bade294f020daab5.jpg,0,2,0,21,27,108,9812,Y,Y,Y,Y,0,N,N,,,N
+100000920,디하이츠 - 썬밸리 (클락썬밸리),9,9,필리핀,http://uf.spazon.com/course/info/202401/0514/55/578be4c011904faebdade20e7052f635.jpg,0,2,0,21,18,72,6187,Y,Y,Y,Y,0,N,N,,,N
+100000919,디하이츠 - 클락 (클락썬밸리),6,7,필리핀,http://uf.spazon.com/course/info/202401/0515/04/e34c2b413683437380d15ad28044f5d3.jpg,0,2,0,21,18,72,5912,Y,Y,Y,Y,0,N,N,,,N
+100000914,서원힐스 CC - EAST/WEST,5,5,수도권,http://uf.spazon.com/course/info/202401/0515/06/e96f2574902947ae8ce62e3195b7395e.jpg,6,2,1,1,18,72,6251,Y,Y,Y,Y,0,Y,N,,,N
+100000916,서원힐스 CC - SOUTH/EAST,5,3,수도권,http://uf.spazon.com/course/info/202401/0515/03/11e2802f97a24a828c1ba16848bf66ea.jpg,0,2,1,1,18,72,6249,Y,Y,Y,Y,1,Y,N,,,N
+100000915,서원힐스 CC - WEST/SOUTH,7,6,수도권,http://uf.spazon.com/course/info/202401/0515/04/266867a53a874ebaaeb220e16476dc61.jpg,0,2,1,1,18,72,6472,Y,Y,Y,Y,0,Y,N,,,N
+100000917,윈체스트 GC,8,5,수도권,http://uf.spazon.com/course/info/202401/0515/05/f82c020f1f2c4265a7cb21c72a2fa6e0.jpg,9,2,1,1,18,72,6364,Y,Y,Y,Y,1,N,N,,,N
+100000921,클락 코리아 CC - 레이크,7,5,필리핀,http://uf.spazon.com/course/info/202401/0515/03/6e05f90a9015473dbc9ec2fd6b12b4a8.jpg,0,2,0,21,18,72,6413,Y,Y,Y,Y,0,N,N,,,N
+100000918,타이거 CC,6,4,수도권,http://uf.gzcdn.net/tournament/clientimages/202411/0510/57/70dd42b0c91f46718b30840c4714dc4a.jpg,7,2,1,1,18,72,5773,Y,Y,Y,Y,1,Y,N,,,N
+100000924,구미 CC -  청룡/거북,8,8,경상도,http://uf.gzcdn.net/tournament/clientimages/202501/2204/40/c701b08850b544c28d3f1d4e475ac4a3.jpg,0,2,5,1,18,72,6157,Y,Y,Y,Y,0,Y,N,,,N
+100000922,구미 CC - 거북/백호,7,6,경상도,http://uf.gzcdn.net/tournament/clientimages/202501/2204/39/f56633ef1a8d40f9bd86b204f83615ff.jpg,0,2,5,1,18,72,6175,Y,Y,Y,Y,0,Y,N,,,N
+100000923,구미 CC - 백호/청룡,7,6,경상도,http://uf.gzcdn.net/tournament/clientimages/202501/2204/40/f1c0f33d696641f5af0be64dd7a6ea75.jpg,3,2,5,1,18,72,6048,Y,Y,Y,Y,0,Y,N,,,N
+100000906,골프존카운티 영암45 - 짐앵A/짐앵B,6,6,전라도,http://uf.spazon.com/course/info/202310/0514/48/77ffa6e6e5ef415b932ba6e797e8cb8c.jpg,1,2,4,1,18,72,6394,Y,Y,Y,Y,0,Y,N,,,N
+100000907,골프존카운티 영암45 - 짐앵B/짐앵C,7,8,전라도,http://uf.spazon.com/course/info/202310/0514/48/ee550713db4f45b49b0189a7041ac466.jpg,0,2,4,1,18,72,6329,Y,Y,Y,Y,0,Y,N,,,N
+100000908,골프존카운티 영암45 - 짐앵C/짐앵A,7,8,전라도,http://uf.spazon.com/course/info/202310/0514/48/452e80e4efbb449885b4f2fd7f803d1c.jpg,0,2,4,1,18,72,6461,Y,Y,Y,Y,0,Y,N,,,N
+100000912,세레니티 골프&리조트 - 리버/블루,4,5,충청도,http://uf.spazon.com/course/info/202310/0514/32/4c1b483a45f94de89f645a2811d3a5a3.jpg,2,2,3,1,18,72,6055,Y,Y,Y,Y,1,Y,N,,,N
+100000913,세레니티 골프&리조트 - 블루/실크,7,7,충청도,http://uf.spazon.com/course/info/202310/0514/33/43cf287931d3470dada6f4380cedf241.jpg,1,2,3,1,18,72,6127,Y,Y,Y,Y,1,Y,N,,,N
+100000911,세레니티 골프&리조트 - 실크/리버,7,7,충청도,http://uf.spazon.com/course/info/202310/0514/32/e0c51544b1e14db6a2e0898b00480045.jpg,0,2,3,1,18,72,6318,Y,Y,Y,Y,1,Y,N,,,N
+100000909,써 제임스 CC,7,9,태국,http://uf.spazon.com/course/info/202310/0514/33/074b0052a1c046a98456eaa09b4467ae.jpg,0,2,0,14,18,72,6475,Y,Y,Y,Y,0,N,N,,,N
+100000910,클락 코리아 CC - 마운틴,8,10,필리핀,http://uf.spazon.com/course/info/202310/0514/33/82bf04820c674bc497f574b4ed8c08ae.jpg,0,2,0,21,18,72,6602,Y,Y,Y,Y,0,N,N,,,N
+100000901,가야 CC - 가락/신어,6,7,경상도,http://uf.spazon.com/course/info/202308/2313/15/bb4c99ecd799411e899588f9611216b6.png,0,2,5,1,18,72,6308,Y,Y,Y,Y,1,Y,N,,,N
+100000899,가야 CC - 김해/수로,2,8,경상도,http://uf.spazon.com/course/info/202308/2313/14/920660669212405ba6c2cd0b6217a091.png,2,2,5,1,18,72,6380,Y,Y,Y,Y,1,Y,N,,,N
+100000900,가야 CC - 낙동/가락,5,7,경상도,http://uf.spazon.com/course/info/202308/2313/15/0afb70c7b86345eea8b7be886b5c8120.png,2,2,5,1,18,72,6341,Y,Y,Y,Y,0,Y,N,,,N
+100000903,한원 CC - 고구려/백제,2,7,수도권,http://uf.spazon.com/course/info/202308/2313/17/83dc586744ae4419882d2178a211340f.jpg,0,2,1,1,18,72,5858,Y,Y,Y,Y,0,N,N,,,N
+100000904,한원 CC - 백제/신라,2,6,수도권,http://uf.spazon.com/course/info/202308/2313/18/c49cda09b178496eb88fe39678d53583.jpg,0,2,1,1,18,72,5730,Y,Y,Y,Y,0,N,N,,,N
+100000905,한원 CC - 신라/고구려,2,9,수도권,http://uf.spazon.com/course/info/202308/2313/18/f22fbfb6700a4d6885f3cc1831864061.jpg,0,2,1,1,18,72,5730,Y,Y,Y,Y,0,N,N,,,N
+100000902,해운대비치골프앤리조트,7,7,경상도,http://uf.spazon.com/course/info/202308/2313/15/6f084c69da8a4188a7ae76aa64f4a2af.jpg,6,2,5,1,18,72,6413,Y,Y,Y,Y,1,N,N,,,N
+100000893,골프존카운티 드래곤 - 드래곤/스카이,6,8,전라도,http://uf.gzcdn.net/course/info/202311/2816/21/7a07449a213c4bb082371228c653e8ac.png,0,2,4,1,18,72,6394,Y,Y,Y,Y,0,N,N,,,N
+100000891,골프존카운티 드래곤 - 레이크/드래곤,7,5,전라도,http://uf.gzcdn.net/course/info/202311/2820/13/0d1b9a03ee0f492a8d4b57537f9959ca.jpg,9,2,4,1,18,72,6570,Y,Y,Y,Y,0,N,N,,,N
+100000892,골프존카운티 드래곤 - 스카이/레이크,6,6,전라도,http://uf.gzcdn.net/course/info/202311/2816/21/fcdc1e9cb38e4c559ab0141b8068c701.png,0,2,4,1,18,72,6446,Y,Y,Y,Y,0,N,N,,,N
+100000890,마스터피스 CC,9,8,경상도,http://uf.gzcdn.net/course/info/202304/2504/06/c824043114274784b5de7733b432bfbd.png,4,2,5,1,18,72,6266,Y,Y,Y,Y,1,Y,N,,,N
+100000896,킹즈락 CC - EAST/WEST,9,8,충청도,http://uf.gzcdn.net/course/info/202304/2504/14/491a6f7833f54366a63d31dbbc49184d.jpg,0,2,3,1,18,72,6540,Y,Y,Y,Y,0,N,N,,,N
+100000898,킹즈락 CC - SOUTH/EAST,9,9,충청도,http://uf.gzcdn.net/course/info/202304/2504/16/8bd493d7b7d1481680d7465ed1bd2419.jpg,0,2,3,1,18,72,6586,Y,Y,Y,Y,0,N,N,,,N
+100000897,킹즈락 CC - WEST/SOUTH,9,9,충청도,http://uf.gzcdn.net/course/info/202304/2504/15/0824e2a981ff405198fc460c373918ef.jpg,13,2,3,1,18,72,6582,Y,Y,Y,Y,0,N,N,,,N
+100000895,트럼프 내셔널 GC 베드민스터 - 올드,4,9,미국,http://uf.gzcdn.net/tournament/clientimages/202505/2609/28/fe3dee8a7aa44b208e5393ae61a41d8e.jpg,0,2,0,4,18,72,7040,Y,Y,Y,Y,0,N,N,,,N
+100000887,나주 GGC,8,6,가상CC,http://uf.gzcdn.net/course/info/202303/2805/09/769cd14f5d914f3e916337304eaef01b.jpg,0,2,0,7,18,72,6156,Y,Y,Y,Y,0,N,N,,,N
+100000889,리얼 클럽 발데라마,3,8,유럽,http://uf.gzcdn.net/course/info/202303/2805/12/0bfd7bfdd3d34a6397646448f0b9e56f.jpg,0,2,0,5,18,71,6360,Y,Y,Y,Y,0,N,N,,,N
+100000886,마론 CC,6,4,충청도,http://uf.gzcdn.net/course/info/202304/2504/20/c46465cf2d324ccc8dc639e332c68c21.png,2,2,3,1,18,72,6394,Y,Y,Y,Y,0,N,N,,,N
+100000888,순천 GGC,9,6,가상CC,http://uf.gzcdn.net/course/info/202303/2805/11/5b21b0906c1c4d39b8c07f26d6b4a681.jpg,0,2,0,7,18,72,6451,Y,Y,Y,Y,0,N,N,,,N
+100000706,아델스코트 CC - 레이크/마운틴,8,6,경상도,http://uf.gzcdn.net/course/info/202311/2818/39/20a778bb3b7347a68a817679d2848df7.jpg,0,2,5,1,18,72,6390,Y,Y,Y,Y,0,N,N,,,N
+100000705,아델스코트 CC - 마운틴/힐,8,8,경상도,http://uf.gzcdn.net/course/info/202311/2818/39/aecd0835c19d417980a80a134ccb314a.jpg,2,2,5,1,18,72,6498,Y,Y,Y,Y,0,N,N,,,N
+100000707,아델스코트 CC - 힐/레이크,8,7,경상도,http://uf.gzcdn.net/course/info/202311/2818/38/7638325bc5d242daa9199411bbdcd248.jpg,0,2,5,1,18,72,6454,Y,Y,Y,Y,0,N,N,,,N
+102424840,키아와 아일랜드 - 오션,3,7,미국,http://uf.gzcdn.net/course/info/202303/2805/13/9567c1a3dc484a13b55a6c1b76524144.jpg,29,2,0,4,18,72,6699,Y,Y,Y,Y,0,N,N,,,N
+102498560,후지 클래식,5,3,일본,http://uf.gzcdn.net/tournament/clientimages/202511/2411/23/380a6b5d66c04ea3baa5faa1a444d7e1.jpg,235,2,0,2,18,72,5897,Y,Y,Y,Y,0,N,N,,,N
+100000881,가야 CC - 신어/낙동,4,7,경상도,http://uf.gzcdn.net/course/info/202302/2104/59/7dbca32e468d421c92c35a2053ae6dcb.png,2,2,5,1,18,72,6333,Y,Y,Y,Y,1,Y,N,,,N
+100000884,라온 GC - LAKE/PINE,7,8,제주도,http://uf.gzcdn.net/course/info/202311/2816/26/797c28d0a0654c9aaae3cd34f1818f41.png,0,2,6,1,18,72,6511,Y,Y,Y,Y,0,N,N,,,N
+100000885,라온 GC - PINE/STONE,7,8,제주도,http://uf.gzcdn.net/course/info/202302/2105/00/2be14365d601438fa67d697e73ca2593.png,0,2,6,1,18,72,6507,Y,Y,Y,Y,0,N,N,,,N
+100000883,라온 GC - STONE/LAKE,8,9,제주도,http://uf.gzcdn.net/course/info/202302/2105/00/702bbba58c1a4a86ae7c4fd5c3983ce2.png,0,2,6,1,18,72,6558,Y,Y,Y,Y,0,N,N,,,N
+100000880,베이스타즈 CC,6,8,경상도,http://uf.gzcdn.net/course/info/202311/2816/24/0a426aee083e4038af719b0ada263e75.png,2,2,5,1,18,72,6012,Y,Y,Y,Y,1,Y,N,,,N
+100000882,알파인 GC 방콕,5,8,태국,http://uf.gzcdn.net/course/info/202304/2504/19/2904c764d0d0449788703721ec77998a.png,0,2,0,14,18,72,6439,Y,Y,Y,Y,0,N,N,,,N
+100006005,트윈 도브스 골프 클럽,10,8,베트남,http://uf.gzcdn.net/course/info/202311/2819/46/1523ec52f74045fcaab1b1fc6978bd88.jpg,0,2,0,16,27,108,9826,Y,Y,Y,Y,0,N,N,,,N
+100000343,하버 타운 GL,2,10,미국,http://uf.gzcdn.net/course/info/202302/2105/01/2aa1dcbadc4b4ab48894a16d8fc387c0.png,0,2,0,4,18,72,6350,Y,Y,Y,Y,0,N,N,,,N
+100001095,광주 무등 GGC,10,9,가상CC,http://uf.gzcdn.net/tournament/clientimages/202609/1413/31/d3edf030679243e7bde517305565e062.jpg,0,2,0,7,18,72,6707,Y,Y,Y,Y,0,N,N,,,N
+100000876,더 시에나 CC,7,9,제주도,http://uf.spazon.com/course/info/202212/3009/54/0df333e85fb749ee8ecd4a676388e468.jpg,4,2,6,1,18,72,6349,Y,Y,Y,Y,0,N,N,,,N
+100000877,이지스카이 GC,7,6,경상도,http://uf.gzcdn.net/course/info/202301/1703/09/57b521b16e834795be3b9ead329582c2.jpg,16,2,5,1,18,72,5563,Y,Y,Y,Y,1,N,N,,,N
+100000677,피닉스골프리조트 - 드래곤코스,8,7,베트남,http://uf.gzcdn.net/tournament/clientimages/202509/2211/00/67b9e1ab496b45f8aa510114a12292a7.jpg,0,2,0,16,18,72,6591,Y,Y,Y,Y,0,N,N,,,N
+100000873,대구 CC - 동/중,3,9,경상도,http://uf.gzcdn.net/course/info/202311/2816/09/adf8f83e967e4ec4b05e82baeed5d6c2.jpg,0,2,5,1,18,72,6409,Y,Y,Y,Y,0,N,N,,,N
+100000875,대구 CC - 서/동,4,6,경상도,http://uf.gzcdn.net/course/info/202311/2816/09/ded58c9e82d140c3ab363761704d845b.jpg,0,2,5,1,18,72,6285,Y,Y,Y,Y,0,N,N,,,N
+100000874,대구 CC - 중/서,3,6,경상도,http://uf.gzcdn.net/course/info/202311/2816/10/698f2584204f4e77904e4d50368e4786.jpg,0,2,5,1,18,72,6248,Y,Y,Y,Y,1,N,N,,,N
+100000872,부산 CC,4,8,경상도,http://uf.gzcdn.net/course/info/202212/0603/19/5dbaa81e4fcf465d87eacbd3b8ce5f7f.jpg,1,2,5,1,18,72,5904,Y,Y,Y,Y,1,N,N,,,N
+100000871,타미우스 GC - 레이크/마운틴,6,4,제주도,http://uf.gzcdn.net/course/info/202211/0105/00/5b370e5536a54e298d35a39f391bb824.jpg,0,2,6,1,18,72,6283,Y,Y,Y,Y,0,N,N,,,N
+100000869,타미우스 GC - 마운틴/우드,5,5,제주도,http://uf.gzcdn.net/course/info/202211/0104/59/e4d380f8b7c946cc974300d4af37759d.jpg,0,2,6,1,18,72,6407,Y,Y,Y,Y,0,N,N,,,N
+100000870,타미우스 GC - 우드/레이크,5,6,제주도,http://uf.gzcdn.net/course/info/202211/0105/00/62fa3f0ab2864e0196c7cf17b3ec3174.jpg,0,2,6,1,18,72,6382,Y,Y,Y,Y,0,N,N,,,N
+100000413,미션힐스 - 노먼,7,9,중국,http://uf.gzcdn.net/course/info/202210/1105/08/143d681c79b54d058ff3806863041ff1.jpg,0,2,0,3,18,72,6489,Y,Y,Y,Y,0,N,N,,,N
+100000368,미션힐스 - 블랙스톤,5,8,중국,http://uf.gzcdn.net/course/info/202210/1105/08/75b01958343b40f7b33238a1f13d8c69.jpg,6,2,0,3,18,72,7178,Y,Y,Y,Y,0,N,N,,,N
+100000375,미션힐스 - 월드컵,5,6,중국,http://uf.gzcdn.net/course/info/202210/1105/08/94f0d7034f0d479c9a2811517d211b84.jpg,0,2,0,3,18,72,6593,Y,Y,Y,Y,0,N,N,,,N
+100000865,신원 CC - 데이비드/솔로몬,6,8,수도권,http://uf.gzcdn.net/course/info/202210/1105/07/6719be7818ba4a55838062633d4c97c4.jpg,0,2,1,1,18,72,6325,Y,Y,Y,Y,0,N,N,,,N
+100000866,신원 CC - 솔로몬/에벤에셀,5,5,수도권,http://uf.gzcdn.net/course/info/202210/1105/08/7759cc266278491cbda48ec6d9eaac21.jpg,0,2,1,1,18,72,6180,Y,Y,Y,Y,0,N,N,,,N
+100000864,신원 CC - 에벤에셀/데이비드,6,7,수도권,http://uf.gzcdn.net/course/info/202210/1105/07/9dc035173a8e40b2bddd91e72c008b76.jpg,0,2,1,1,18,72,6263,Y,Y,Y,Y,0,N,N,,,N
+100000863,로얄링스 CC - KINGS,3,6,충청도,http://uf.gzcdn.net/course/info/202209/2004/14/be1f957c4d3248a48ec521f355540e6f.jpg,1,2,3,1,18,72,6650,Y,Y,Y,Y,0,N,N,,,N
+100000862,로얄링스 CC - QUEENS,4,5,충청도,http://uf.gzcdn.net/course/info/202209/2004/13/c0e6737affd3400fad8435cdfbe09fd8.jpg,0,2,3,1,18,72,6635,Y,Y,Y,Y,0,N,N,,,N
+100000855,원더클럽 신라 - 남/동,8,7,수도권,http://uf.gzcdn.net/course/info/202306/2704/55/a10ead9a321d4213ba7a23932ebbc591.png,0,2,1,1,18,72,6282,Y,Y,Y,Y,0,N,N,,,N
+100000856,원더클럽 신라 - 동/서,7,7,수도권,http://uf.gzcdn.net/course/info/202306/2704/55/0949f6bbe5204f0f8b69eb08b6f90484.png,0,2,1,1,18,72,6309,Y,Y,Y,Y,0,N,N,,,N
+100000854,원더클럽 신라 - 서/남,9,8,수도권,http://uf.gzcdn.net/course/info/202306/2704/55/28bb6ae7a1ee4b85b3af3bd5dbb7abc0.png,0,2,1,1,18,72,6341,Y,Y,Y,Y,0,N,N,,,N
+100000344,PGA 내셔널 골프클럽 - 챔피언,3,5,미국,http://uf.gzcdn.net/course/info/202209/2004/14/e4ba59b980e64dfd8a60632e5132d633.jpg,0,2,0,4,18,72,6439,Y,Y,Y,Y,0,N,N,,,N
+100004004,PGA 내셔널 골프클럽 - 파머,5,9,미국,http://uf.gzcdn.net/course/info/202209/2004/15/13cb85926bdd4bf08756957bd7e7d7e5.jpg,0,2,0,4,18,72,6419,Y,Y,Y,Y,0,N,N,,,N
+100000858,골프존카운티 천안,8,7,충청도,http://uf.gzcdn.net/course/info/202208/3004/16/bb903320566a447bac264aec622064ee.jpg,0,2,3,1,18,72,6476,Y,Y,Y,Y,0,Y,N,,,N
+100000857,샤인빌파크 CC,5,7,제주도,http://uf.gzcdn.net/course/info/202208/3004/17/f0492d328a774eafa8119fb21457f8cf.jpg,0,2,6,1,18,72,6307,Y,Y,Y,Y,0,N,N,,,N
+100000860,에코랜드 GC - 비치힐스/에코,3,8,제주도,http://uf.gzcdn.net/course/info/202208/3004/16/816e7472a18d4164b3b71d4c17e46db6.jpg,0,2,6,1,18,72,6306,Y,Y,Y,Y,0,N,N,,,N
+100000861,에코랜드 GC - 에코/와일드,4,9,제주도,http://uf.gzcdn.net/course/info/202208/3004/15/975645feb0e044649aefd20d4009cccc.jpg,0,2,6,1,18,72,6376,Y,Y,Y,Y,0,N,N,,,N
+100000859,에코랜드 GC - 와일드/비치힐스,4,8,제주도,http://uf.gzcdn.net/course/info/202208/3004/16/a76178c7cf1e49bd8e467832cffe3c4b.jpg,15,2,6,1,18,72,6324,Y,Y,Y,Y,0,N,N,,,N
+100000695,골프존카운티 순천 - 다이아몬드/토파즈,7,6,전라도,http://uf.gzcdn.net/course/info/202212/0603/21/65cfb3c9d73a42d3894adc11030ada0a.jpg,0,2,4,1,18,72,6370,Y,Y,Y,Y,0,N,N,,,N
+100000694,골프존카운티 순천 - 루비/에메랄드,9,4,전라도,http://uf.gzcdn.net/course/info/202212/0603/21/6566cb7c622a47e79be3fc98022cda05.jpg,0,2,4,1,18,72,6120,Y,Y,Y,Y,0,N,N,,,N
+100000853,노벨 CC - 가야/공룡,7,8,경상도,http://uf.gzcdn.net/course/info/202404/3004/41/476fb4dae1344da2b9a4c907e0536de0.jpg,0,2,5,1,18,72,6262,Y,Y,Y,Y,0,N,N,,,N
+100000851,노벨 CC - 공룡/충무,7,8,경상도,http://uf.gzcdn.net/course/info/202404/3004/40/6dd67a5fbcfe470a90e7607e04e8c8e9.jpg,1,2,5,1,18,72,6332,Y,Y,Y,Y,0,N,N,,,N
+100000852,노벨 CC - 충무/가야,8,8,경상도,http://uf.gzcdn.net/course/info/202404/3004/41/6b72c14a6a9742e6905ff5548eb8ea52.jpg,0,2,5,1,18,72,6298,Y,Y,Y,Y,1,N,N,,,N
+100000849,솔라고 CC - 라고,7,2,충청도,http://uf.gzcdn.net/course/info/202212/0603/23/39f1e67f39704937ac24df51d5e41a63.jpg,0,2,3,1,18,72,6677,Y,Y,Y,Y,0,N,N,,,N
+100000848,솔라고 CC - 솔,7,4,충청도,http://uf.gzcdn.net/course/info/202212/0603/23/6b97f8eba8e54c5d9310135d463417fe.jpg,16,2,3,1,18,72,6628,Y,Y,Y,Y,0,N,N,,,N
+100006010,스토크파크 골프 클럽,4,8,기타,http://uf.gzcdn.net/course/info/202212/0603/24/880921976c9c4612a176ef0c7a7bba49.jpg,0,2,0,6,27,106,8972,Y,Y,Y,Y,0,N,N,,,N
+100005006,로얄에버딘 골프클럽,4,6,유럽,http://uf.gzcdn.net/course/info/202212/0603/23/68e56e1c2c35483582afd37e0c42d471.jpg,0,2,0,5,18,71,6270,Y,Y,Y,Y,0,N,N,,,N
+100000844,신한투자증권 CC,4,7,가상CC,http://uf.gzcdn.net/course/info/202212/0603/24/6e865ca55fe24995884a9e33a5ee8956.jpg,1,2,0,7,18,72,6363,Y,Y,Y,Y,0,N,N,,,N
+100005008,프린스 골프 클럽,2,5,유럽,http://uf.gzcdn.net/course/info/202212/0603/25/366cb384de3f464089a5d2394c15ae09.jpg,0,2,0,5,18,72,6574,Y,Y,Y,Y,0,N,N,,,N
+100000847,해솔리아 CC - 리아코스/해코스,4,6,수도권,http://uf.gzcdn.net/course/info/202205/1706/10/a14dde3b68904677b73630a50d4a9503.jpg,0,2,1,1,18,72,6184,Y,Y,Y,Y,1,N,N,,,N
+100000846,해솔리아 CC - 솔코스/리아코스,5,6,수도권,http://uf.gzcdn.net/course/info/202212/0603/25/fabd0c09607f4ff39f92dd97812bb503.jpg,0,2,1,1,18,72,5964,Y,Y,Y,Y,0,N,N,,,N
+100000845,해솔리아 CC - 해코스/솔코스,6,6,수도권,http://uf.gzcdn.net/course/info/202212/0603/25/9baac25b6f77428194ec4929cfa47976.jpg,0,2,1,1,18,72,6320,Y,Y,Y,Y,0,N,N,,,N
+100005009,에비앙 리조트 골프코스,7,8,유럽,http://uf.gzcdn.net/course/info/202204/1903/06/3f3ed7b43d604c51bb6326577a0b3d1d.jpg,5,2,0,5,18,72,6079,Y,Y,Y,Y,0,N,N,,,N
+100000759,엠스클럽 의성 - CHALLENGE/CHAMPION,8,9,경상도,http://uf.gzcdn.net/course/info/202204/1903/09/27c835052a074b1f8ade4678afc17b07.jpg,18,2,5,1,18,72,6327,Y,Y,Y,Y,0,N,N,,,N
+100000757,엠스클럽 의성 - CHAMPION/MASTER,8,9,경상도,http://uf.gzcdn.net/course/info/202204/1903/09/e8f5cf96d64549a9b1a0b873e6516ed8.jpg,0,2,5,1,18,73,6397,Y,Y,Y,Y,1,N,N,,,N
+100000758,엠스클럽 의성 - MASTER/CHALLENGE,9,8,경상도,http://uf.gzcdn.net/course/info/202204/1903/09/991be1df8393405491c18a20d98d961b.jpg,0,2,5,1,18,73,6356,Y,Y,Y,Y,0,N,N,,,N
+100000840,자유로 CC - 대한/민국,9,9,수도권,http://uf.gzcdn.net/course/info/202204/1903/11/0208708727854feca5aff0b7e0095d75.jpg,0,2,1,1,18,72,6594,Y,Y,Y,Y,0,Y,N,,,N
+100000841,자유로 CC - 민국/통일,9,9,수도권,http://uf.gzcdn.net/course/info/202204/1903/11/d53788fab6b7432fb4a26d2a8211d509.jpg,0,2,1,1,18,72,6529,Y,Y,Y,Y,0,Y,N,,,N
+100000842,자유로 CC - 통일/대한,9,10,수도권,http://uf.gzcdn.net/course/info/202204/1903/11/55f33f95119d4ad49b7e3e81929756e5.jpg,0,2,1,1,18,72,6571,Y,Y,Y,Y,0,Y,N,,,N
+100000354,콕힐 골프클럽 - NO.4,3,9,미국,http://uf.gzcdn.net/course/info/202204/1903/04/bf92c927463643e3bdc2874d6f5248b3.jpg,0,2,0,4,18,72,6892,Y,Y,Y,Y,0,Y,N,,,N
+100005007,턴베리 골프클럽 - Ailsa,4,8,유럽,http://uf.gzcdn.net/course/info/202204/1903/07/40acfe87ef8646aa9381764758839350.jpg,0,2,0,5,18,71,6772,Y,Y,Y,Y,0,N,N,,,N
+100000834,보라 CC - EDWARD/HENRY,8,7,경상도,http://uf.gzcdn.net/course/info/202203/2903/19/c56909f36645421fbba35361b261fedf.jpg,0,2,5,1,18,72,6370,Y,Y,Y,Y,0,N,N,,,N
+100000835,보라 CC - HENRY/WILLIAM,7,8,경상도,http://uf.gzcdn.net/course/info/202203/2903/19/c55e07b01d9e474c86501bfe472b1ea6.jpg,0,2,5,1,18,72,6501,Y,Y,Y,Y,0,N,N,,,N
+100000836,보라 CC - WILLIAM/EDWARD,7,7,경상도,http://uf.gzcdn.net/course/info/202203/2903/19/a362bcf443494362a87b7f455ed0c582.jpg,0,2,5,1,18,72,6451,Y,Y,Y,Y,0,N,N,,,N
+100000829,의령리온 CC - 길정/리온,6,8,경상도,http://uf.spazon.com/course/info/202203/0309/44/1c4faf78c7594890b531557bbb2fc503.jpg,0,2,5,1,18,72,6644,Y,Y,Y,Y,0,N,N,,,N
+100000830,의령리온 CC - 리온/마운틴,7,7,경상도,http://uf.spazon.com/course/info/202203/0309/44/0de8cd9bf5184db5acfda3a0abe569ff.jpg,1,2,5,1,18,72,6587,Y,Y,Y,Y,0,N,N,,,N
+100000831,의령리온 CC - 마운틴/길정,6,8,경상도,http://uf.spazon.com/course/info/202203/0309/32/565ff7a394f24238af6e1af8ae7aca74.jpg,0,2,5,1,18,72,6603,Y,Y,Y,Y,0,N,N,,,N
+100000833,장수골프리조트,9,8,전라도,http://uf.spazon.com/tournament/clientimages/202408/1815/36/cc056ca5dad94cc69d41587b7a91e462.jpg,28,2,4,1,18,72,6711,Y,Y,Y,Y,0,Y,N,,,N
+100004009,퀘일 할로우 클럽(Quail Hollow),5,8,미국,http://uf.gzcdn.net/course/info/202212/0603/24/08b53db0ed4c4ca8ac1ddeb4e4ea367e.jpg,0,2,0,4,18,71,6967,Y,Y,Y,Y,0,N,N,,,N
+100000837,핀크스 GC - EAST/WEST,5,8,제주도,http://uf.gzcdn.net/course/info/202203/2903/18/bb703b8a627a4f51a9a9f9b49a8dddf3.jpg,9,2,6,1,18,72,6577,Y,Y,Y,Y,0,N,N,,,N
+100000839,핀크스 GC - NORTH/EAST,5,8,제주도,http://uf.gzcdn.net/course/info/202203/2903/18/ae7d13f31c574224956ecf76d04ce9af.jpg,0,2,6,1,18,72,6152,Y,Y,Y,Y,0,N,N,,,N
+100000838,핀크스 GC - WEST/NORTH,5,8,제주도,http://uf.gzcdn.net/course/info/202203/2903/18/75fd02bfc6604c02b7a888aeb7e22ac5.jpg,0,2,6,1,18,72,6257,Y,Y,Y,Y,0,N,N,,,N
+100000827,코스카 CC - 릴리/파인,8,6,충청도,http://uf.spazon.com/course/info/202201/1016/26/fabf37dc23ce4dc185cdfe2b0ec23a3f.jpg,1,2,3,1,18,72,6301,Y,Y,Y,Y,0,N,N,,,N
+100000826,코스카 CC - 메이플/릴리,7,5,충청도,http://uf.spazon.com/course/info/202201/1016/25/3be3067b572641d5baf252578f63103e.jpg,4,2,3,1,18,72,6379,Y,Y,Y,Y,0,N,N,,,N
+100000828,코스카 CC - 파인/메이플,7,5,충청도,http://uf.spazon.com/course/info/202201/1016/27/c4323d8a471d44b299655541a8889e4e.jpg,0,2,3,1,18,72,6300,Y,Y,Y,Y,0,N,N,,,N
+100006012,KN GOLF LINKS,8,5,베트남,http://uf.gzcdn.net/course/info/202311/2819/22/ec2ec9b3c16a4a5c9adf6928fd4da03e.jpg,0,2,0,16,27,108,9644,Y,Y,Y,Y,0,N,N,,,N
+100000821,롯데스카이힐 부여CC,8,6,충청도,http://uf.gzcdn.net/course/info/202311/2819/24/a9c970ed83af483abbfdab64702b3b73.jpg,0,2,3,1,18,72,6034,Y,Y,Y,Y,0,Y,N,,,N
+100000822,스프링데일 CC,9,9,제주도,http://uf.gzcdn.net/course/info/202311/2816/13/fa43db74b72447d693cb19daa05d88c9.jpg,29,2,6,1,18,72,6495,Y,Y,Y,Y,0,Y,N,,,N
+100000817,클럽모우 CC - 마운틴/오아시스,8,8,강원도,http://uf.gzcdn.net/course/info/202311/2818/51/66b99911a8e147ba92d16149bfa4c877.jpg,0,2,2,1,18,72,6426,Y,Y,Y,Y,0,N,N,,,N
+100000818,클럽모우 CC - 오아시스/와일드,7,9,강원도,http://uf.gzcdn.net/course/info/202311/2818/51/f9a9c18ed25e4d59b09f9a7a61dad9fa.jpg,4,2,2,1,18,72,6349,Y,Y,Y,Y,0,N,N,,,N
+100000819,클럽모우 CC - 와일드/마운틴,7,9,강원도,http://uf.gzcdn.net/course/info/202311/2818/51/70ba896a337f46a49e069206cd87cd2d.jpg,1,2,2,1,18,72,6229,Y,Y,Y,Y,0,N,N,,,N
+100000824,파인리즈 CC - LAKE/RIDGE,6,9,강원도,http://uf.gzcdn.net/course/info/202311/2819/35/7f83bdd300404f7ab04563f7155f6d70.jpg,0,2,2,1,18,72,6753,Y,Y,Y,Y,0,Y,N,,,N
+100000823,파인리즈 CC - PINE/LAKE,8,9,강원도,http://uf.gzcdn.net/course/info/202311/2819/34/e5944a9300fe489f8a5098f0e5b9bbce.jpg,1,2,2,1,18,72,6710,Y,Y,Y,Y,0,Y,N,,,N
+100000825,파인리즈 CC - RIDGE/PINE,8,7,강원도,http://uf.gzcdn.net/course/info/202311/2819/35/2eaee3aa9af041fa98292d199384d503.jpg,0,2,2,1,18,72,6611,Y,Y,Y,Y,0,Y,N,,,N
+100000820,포웰CC 김해,6,6,경상도,http://uf.spazon.com/tournament/clientimages/202501/0909/45/8f18befc9b0e4521a670796c400e004b.jpg,2,2,5,1,18,72,6376,Y,Y,Y,Y,1,Y,N,,,N
+100000809,무안클린밸리 CC,7,8,전라도,http://uf.gzcdn.net/course/info/202203/2903/36/cbce0f5a530c45fda26065946c652af0.png,0,2,4,1,18,72,6208,Y,Y,Y,Y,0,Y,N,,,N
+100000811,스카이 밸리 CC - MOUNTAIN/LAKE,7,7,수도권,http://uf.gzcdn.net/course/info/202203/2903/44/110509f70aa64e298dd614cc8700fa19.jpg,0,2,1,1,18,72,6169,Y,Y,Y,Y,0,N,N,,,N
+100000810,스카이 밸리 CC - SKY/VALLEY,8,7,수도권,http://uf.gzcdn.net/course/info/202203/2903/44/ffedcbe4d40a467ca81926b8d332ec42.jpg,0,2,1,1,18,72,6129,Y,Y,Y,Y,0,N,N,,,N
+100000815,타니 CC - 청룡/백호,8,10,경상도,http://uf.gzcdn.net/course/info/202203/2904/28/5ea1c7884779435ba0e03727170cd367.jpg,0,2,5,1,18,72,6307,Y,Y,Y,Y,0,Y,N,,,N
+100000816,타니 CC - 현무/주작,8,9,경상도,http://uf.gzcdn.net/course/info/202203/2903/45/895c51b781424829873e94211913f628.jpg,1,2,5,1,18,72,6313,Y,Y,Y,Y,0,Y,N,,,N
+100300004,숏&롱 파3 CC,8,8,가상CC,http://uf.gzcdn.net/course/info/202311/2819/33/d997aea658164fd3b4e7191d852e74b2.jpg,0,2,0,8,18,54,3132,N,Y,Y,Y,0,N,N,,,N
+100000805,세종에머슨 CC - LAKES/VALLEY,4,5,충청도,http://uf.gzcdn.net/course/info/202311/2818/59/15ac9824e5024477b209a18390bc42c8.jpg,1,2,3,1,18,72,5962,Y,Y,Y,Y,0,N,N,,,N
+100000807,세종에머슨 CC - MOUNTAIN/LAKES,4,5,충청도,http://uf.gzcdn.net/course/info/202311/2818/58/3b6ba4170cba4514aa1dc06ea5d3a4bb.jpg,0,2,3,1,18,72,6111,Y,Y,Y,Y,0,N,N,,,N
+100000806,세종에머슨 CC - VALLEY/MOUNTAIN,4,6,충청도,http://uf.gzcdn.net/course/info/202311/2818/59/f7c9e7b9770f4ff4a051318183829389.jpg,0,2,3,1,18,72,6205,Y,Y,Y,Y,0,N,N,,,N
+100000808,안동레이크 GC,8,8,경상도,http://uf.gzcdn.net/course/info/202311/2818/40/489dccbd99324091bf8b3dd998d084cd.jpg,0,2,5,1,18,72,6294,Y,Y,Y,Y,0,Y,N,,,N
+100000804,푸른솔 GC 장성 - HILL/LAKE,8,3,전라도,http://uf.gzcdn.net/course/info/202311/2819/37/101aa625d1574044bbf5ceb2a8c0aa31.jpg,0,2,4,1,18,72,6253,Y,Y,Y,Y,0,N,N,,,N
+100000802,푸른솔 GC 장성 - LAKE/MOUNTAIN,8,6,전라도,http://uf.gzcdn.net/course/info/202311/2819/37/f79d106d1a464a08b915800de785fd4a.jpg,0,2,4,1,18,72,6537,Y,Y,Y,Y,0,N,N,,,N
+100000803,푸른솔 GC 장성 - MOUNTAIN/HILL,8,6,전라도,http://uf.gzcdn.net/course/info/202311/2819/36/b7f9d562cd484be0ac017391460d37df.jpg,2,2,4,1,18,72,6422,Y,Y,Y,Y,0,N,N,,,N
+100000798,써미트 CC - K코스/M코스,7,8,전라도,http://uf.gzcdn.net/course/info/202311/2819/43/580a00091b23450d9e9f958cf5846b26.jpg,0,2,4,1,18,72,6289,Y,Y,Y,Y,0,N,N,,,N
+100000796,써미트 CC - M코스/S코스,8,7,전라도,http://uf.gzcdn.net/course/info/202311/2819/44/9e4f51c75fe3411cb8bead45304f4566.jpg,0,2,4,1,18,72,6167,Y,Y,Y,Y,0,N,N,,,N
+100000797,써미트 CC - S코스/K코스,8,8,전라도,http://uf.gzcdn.net/course/info/202311/2819/44/32ec9fb5238a41649463b9e123c522d9.jpg,0,2,4,1,18,72,6330,Y,Y,Y,Y,0,N,N,,,N
+100000688,리더스 CC - HILL/LAKE,7,8,경상도,http://uf.gzcdn.net/course/info/202302/2104/55/bfb63a0fb71d4f92ba0b3962fef9ed8c.png,0,2,5,1,18,72,6426,Y,Y,Y,Y,0,N,N,,,N
+100000689,리더스 CC - LAKE/PINE,8,5,경상도,http://uf.gzcdn.net/course/info/202302/2104/54/9f1741d11b7147d2a56bc17892c12ed6.png,0,2,5,1,18,72,5980,Y,Y,Y,Y,0,N,N,,,N
+100000690,리더스 CC - PINE/HILL,7,8,경상도,http://uf.gzcdn.net/course/info/202302/2104/54/a427d6ea03164df3a8aeb210fbf8f36b.png,0,2,5,1,18,72,6372,Y,Y,Y,Y,0,N,N,,,N
+100000794,아리지 CC - 달님/별님,8,9,수도권,http://uf.gzcdn.net/course/info/202311/2818/45/9dc6e995010e4ea1bb488a56e8e0746d.jpg,0,2,1,1,18,72,6295,Y,Y,Y,Y,0,N,N,,,N
+100000795,아리지 CC - 별님/햇님,7,9,수도권,http://uf.gzcdn.net/course/info/202311/2818/44/e3c254eb1fc8467f9c5b31f6e656bdbd.jpg,0,2,1,1,18,72,6213,Y,Y,Y,Y,0,N,N,,,N
+100000793,아리지 CC - 햇님/달님,8,8,수도권,http://uf.gzcdn.net/course/info/202311/2818/45/9603982b3c9240edbe662db82df70b54.jpg,0,2,1,1,18,72,6336,Y,Y,Y,Y,0,N,N,,,N
+100000792,양평 TPC GC - LUNAR/STELLA,7,4,수도권,http://uf.gzcdn.net/course/info/202311/2819/47/100b2c568b21404d86357d51425d1678.jpg,0,2,1,1,18,72,6292,Y,Y,Y,Y,0,N,N,,,N
+100000790,양평 TPC GC - SOLAR/LUNAR,7,6,수도권,http://uf.gzcdn.net/course/info/202311/2819/48/1b2fb9106857497eb53588f039a71eaf.jpg,0,2,1,1,18,72,6420,Y,Y,Y,Y,0,N,N,,,N
+100000791,양평 TPC GC - STELLA/SOLAR,6,6,수도권,http://uf.gzcdn.net/course/info/202311/2819/48/b9ca5ba26dd947168ba3f1996211d283.jpg,0,2,1,1,18,72,6174,Y,Y,Y,Y,0,N,N,,,N
+100000782,골프존카운티 오라 - EAST/WEST,5,6,제주도,http://uf.gzcdn.net/course/info/202311/2819/30/d5febd162cfe480f93e1b1f46391bf58.jpg,0,2,6,1,18,72,6568,Y,Y,Y,Y,0,Y,N,,,N
+100000783,골프존카운티 오라 - SOUTH,5,7,제주도,http://uf.gzcdn.net/course/info/202311/2819/29/bab24c340055499eac6c8c72fc593656.jpg,0,2,6,1,18,72,6353,Y,Y,Y,Y,0,Y,N,,,N
+100000784,인서울 27 CC - EAST/WEST,6,9,수도권,http://uf.gzcdn.net/course/info/202311/2819/20/fc3331e010d34ad3ba25d0de126a1de3.jpg,0,2,1,1,18,72,6265,Y,Y,Y,Y,0,N,N,,,N
+100000786,인서울 27 CC - SOUTH/EAST,3,7,수도권,http://uf.gzcdn.net/course/info/202311/2819/20/ccabdf28fb8046faa07cafb72aa78961.jpg,0,2,1,1,18,72,5746,Y,Y,Y,Y,0,N,N,,,N
+100000785,인서울 27 CC - WEST/SOUTH,5,7,수도권,http://uf.gzcdn.net/course/info/202311/2819/20/0a0bb452e62a408a9d9de767e15ddade.jpg,0,2,1,1,18,72,5887,Y,Y,Y,Y,0,N,N,,,N
+100000787,일레븐 CC,9,8,충청도,http://uf.gzcdn.net/course/info/202311/2816/14/0cd4c993da244f5e81b258e4596f704e.jpg,4,2,3,1,18,72,6138,Y,Y,Y,Y,1,Y,N,,,N
+100000788,GTOUR 밸리,4,9,가상CC,http://uf.gzcdn.net/course/info/202311/2819/01/5a53f508bb9245b49630edc4ab7fe6bb.jpg,0,2,0,7,18,72,6741,Y,Y,Y,Y,0,N,N,,,N
+100300003,레이크뷰 파3 CC,8,8,가상CC,http://uf.gzcdn.net/course/info/202311/2819/33/3dcb309ced6745cfbd161f53221afaa2.jpg,0,2,0,8,18,54,2973,N,Y,Y,Y,0,N,N,,,N
+100000781,엠버 힐스 골프&리조트,9,10,베트남,http://uf.gzcdn.net/tournament/clientimages/202605/1903/53/c95a09353b7c414aa9d545626d6c8ac4.jpg,0,2,0,16,18,72,6463,Y,Y,Y,Y,0,N,N,,,N
+100000775,에버리스 CC - 레이크/새별,2,5,제주도,http://uf.gzcdn.net/course/info/202311/2818/59/1bff92aa3e934421ab48b9f4912897f8.jpg,0,2,6,1,18,72,6110,Y,Y,Y,Y,0,N,N,,,N
+100000776,에버리스 CC - 새별/파인,3,4,제주도,http://uf.gzcdn.net/course/info/202311/2818/59/e157a21449b14bfab2457a8f18852f44.jpg,0,2,6,1,18,72,5911,Y,Y,Y,Y,0,N,N,,,N
+100000777,에버리스 CC - 파인/레이크,3,5,제주도,http://uf.gzcdn.net/course/info/202311/2818/59/0e3798e6c32b4a4c859cf35c30000e48.jpg,1,2,6,1,18,72,6075,Y,Y,Y,Y,0,N,N,,,N
+100000778,클럽디거창 - EAST/WEST,7,7,경상도,http://uf.gzcdn.net/course/info/202311/2818/54/3c38b4e5a8834c509e2963b713441141.jpg,0,2,5,1,18,72,6312,Y,Y,Y,Y,0,N,N,,,N
+100000780,클럽디거창 - SOUTH/EAST,8,8,경상도,http://uf.gzcdn.net/course/info/202311/2818/53/15ec276c60b043479ecc9baf212b2110.jpg,1,2,5,1,18,72,6402,Y,Y,Y,Y,0,N,N,,,N
+100000779,클럽디거창 - WEST/SOUTH,7,8,경상도,http://uf.gzcdn.net/course/info/202311/2818/54/2c678155a3c0461d8d2c66844211054e.jpg,0,2,5,1,18,72,6270,Y,Y,Y,Y,0,N,N,,,N
+100000774,리베라 CC - 레이크/밸리,3,5,수도권,http://uf.gzcdn.net/course/info/202311/2816/12/0f1e772cd15a4074bc32934e21b88ba0.jpg,1,2,1,1,18,72,5964,Y,Y,Y,Y,1,Y,N,,,N
+100000773,리베라 CC - 체리힐/파인힐,4,8,수도권,http://uf.gzcdn.net/course/info/202311/2816/11/c6176bca723f4020b54feb94467b67fc.jpg,1,2,1,1,18,72,6495,Y,Y,Y,Y,1,Y,N,,,N
+100000772,블랙스톤 벨포레 CC,9,9,충청도,http://uf.gzcdn.net/tournament/clientimages/202411/0510/04/8684fdb5c4944029b5e55da9a781f865.jpg,39,2,3,1,18,72,5895,Y,Y,Y,Y,1,Y,N,,,N
+100000771,샤인데일 CC - 데일/샤인,8,8,강원도,http://uf.gzcdn.net/course/info/202311/2819/40/f44944bfa19e47d6bb709797d78a8c77.jpg,0,2,2,1,18,72,6715,Y,Y,Y,Y,0,N,N,,,N
+100000770,샤인데일 CC - 레이크/데일,9,9,강원도,http://uf.gzcdn.net/course/info/202311/2819/41/c1f891011a8743199e77a4f1d063c16d.jpg,0,2,2,1,18,72,6443,Y,Y,Y,Y,0,N,N,,,N
+100000769,샤인데일 CC - 샤인/레이크,9,8,강원도,http://uf.gzcdn.net/course/info/202203/2903/09/949f4e1c086b4eab9a5a6c4107ef912d.jpg,0,2,2,1,18,72,6706,Y,Y,Y,Y,0,N,N,,,N
+100000755,골든 베이 - MOUNTAIN/VALLEY,6,5,충청도,http://uf.gzcdn.net/course/info/202309/1905/54/c7ce66972c534d27a0543125441e247d.jpg,0,2,3,1,18,72,6563,Y,Y,Y,Y,0,N,N,,,N
+100000754,골든 베이 - OCEAN/MOUNTAIN,6,5,충청도,http://uf.gzcdn.net/course/info/202309/1905/55/40679a4f167c4b1ba3fc257a0e018822.jpg,1,2,3,1,18,72,6321,Y,Y,Y,Y,0,N,N,,,N
+100000756,골든 베이 - VALLEY/OCEAN,6,7,충청도,http://uf.gzcdn.net/course/info/202309/1905/54/3ffaef2314f547748c234917684d6b58.jpg,0,2,3,1,18,72,6394,Y,Y,Y,Y,0,N,N,,,N
+100000748,뉴스프링빌 CC - ALPS/MONTBLANC,7,6,수도권,http://uf.gzcdn.net/course/info/202311/2819/25/55d46dda46f54bd2b6d507fc82710d9d.jpg,0,2,1,1,18,72,5927,Y,Y,Y,Y,0,N,N,,,N
+100000747,뉴스프링빌 CC - ROCKY/OLYMPUS,5,7,수도권,http://uf.gzcdn.net/course/info/202311/2819/26/e580eb861cd04cedaded543daf8684a9.jpg,0,2,1,1,18,72,5986,Y,Y,Y,Y,0,N,N,,,N
+100000745,솔모로 CC - CHERRY/PERSIMMON,6,9,수도권,http://uf.gzcdn.net/course/info/202311/2819/42/3d437eedfc34487699be20288f4d2c39.jpg,0,2,1,1,18,71,6121,Y,Y,Y,Y,0,N,N,,,N
+100000746,솔모로 CC - PINE/MAPLE,5,9,수도권,http://uf.gzcdn.net/course/info/202311/2819/41/4d3e429a238446a897c3eddb60f93fac.jpg,18,2,1,1,18,72,6330,Y,Y,Y,Y,0,N,N,,,N
+100000766,오션힐스 포항 CC - HILL/PINE,7,8,경상도,http://uf.gzcdn.net/course/info/202311/2819/28/72b5a8095b294952a3ae544dc382baa9.jpg,0,2,5,1,18,72,6257,Y,Y,Y,Y,0,N,N,,,N
+100000768,오션힐스 포항 CC - OCEAN/HILL,7,6,경상도,http://uf.gzcdn.net/course/info/202311/2819/27/feea84b3732945ca90ace76a704c1304.jpg,0,2,5,1,18,72,6267,Y,Y,Y,Y,0,N,N,,,N
+100000767,오션힐스 포항 CC - PINE/OCEAN,8,7,경상도,http://uf.gzcdn.net/course/info/202311/2819/27/4413d264f3f045b897bcad6f35183819.jpg,0,2,5,1,18,72,6470,Y,Y,Y,Y,0,N,N,,,N
+100000753,한림용인 CC - 다이아몬드/사파이어,7,5,수도권,http://uf.gzcdn.net/tournament/clientimages/202609/1504/05/72185f4633684a4392204ee0590a1b31.jpg,2,2,1,1,18,72,6315,Y,Y,Y,Y,0,N,N,,,N
+100000752,한림용인 CC - 루비/다이아몬드,7,8,수도권,http://uf.gzcdn.net/tournament/clientimages/202609/1504/05/4cf8475fb81d476ba947ee45221de5b6.jpg,1,2,1,1,18,72,6494,Y,Y,Y,Y,0,N,N,,,N
+100000751,한림용인 CC - 사파이어/루비,8,7,수도권,http://uf.gzcdn.net/tournament/clientimages/202609/1504/05/ca65697d85cb4c0480b0fa82f2e5c690.jpg,0,2,1,1,18,72,6435,Y,Y,Y,Y,1,N,N,,,N
+100000750,해비치 제주 - LAKE/VALLEY,6,7,제주도,http://uf.gzcdn.net/tournament/clientimages/202504/2810/42/cf0daffa17a64897ae91f59caf5b6db9.jpg,0,2,6,1,18,72,6244,Y,Y,Y,Y,0,N,N,,,N
+100000749,해비치 제주 - SKY/PALM,5,6,제주도,http://uf.gzcdn.net/tournament/clientimages/202504/2810/42/8eb263a9613844c0869a4e324388b416.jpg,2,2,6,1,18,72,6438,Y,Y,Y,Y,0,N,N,,,N
+100000764,JNJ - 남/진,7,8,전라도,http://uf.gzcdn.net/course/info/202302/2104/52/c51a2ec7dcb943539ceae3ea3d5126c4.png,1,2,4,1,18,72,6374,Y,Y,Y,Y,0,N,N,,,N
+100000763,JNJ - 정/남,8,7,전라도,http://uf.gzcdn.net/course/info/202302/2104/53/2c3ce1362dd84e90a05eedca3bc8e14f.png,0,2,4,1,18,72,6235,Y,Y,Y,Y,0,N,N,,,N
+100000765,JNJ - 진/정,7,8,전라도,http://uf.gzcdn.net/course/info/202302/2104/52/727fc798bb774cbebbcdc1ac28a3b1cb.png,0,2,4,1,18,72,6309,Y,Y,Y,Y,0,N,N,,,N
+100000743,아리스타 CC,7,7,충청도,http://uf.gzcdn.net/tournament/clientimages/202504/2810/37/fb3a672e67ed470aad72b8500d62d8e3.jpg,4,2,3,1,18,72,6114,Y,Y,Y,Y,0,Y,N,,,N
+100000742,플라자 CC 용인 - LION,4,9,수도권,http://uf.gzcdn.net/tournament/clientimages/202409/2411/43/ec0c5617f3934ad3a090ac9c2c6d2558.jpg,1,2,1,1,18,72,5993,Y,Y,Y,Y,0,N,N,,,N
+100000741,플라자 CC 용인 - TIGER,5,10,수도권,http://uf.gzcdn.net/tournament/clientimages/202409/2411/43/d67286169e6f466bae14e49c70bbab91.jpg,0,2,1,1,18,72,6320,Y,Y,Y,Y,0,N,N,,,N
+100000738,다산베아채 CC - 다산/베아채,7,8,전라도,http://uf.gzcdn.net/course/info/202311/2816/11/01b3b4ceb5964d55b931cb500272143e.jpg,0,2,4,1,18,72,6533,Y,Y,Y,Y,0,N,N,,,N
+100000739,다산베아채 CC - 베아채/장보고,8,7,전라도,http://uf.gzcdn.net/course/info/202311/2816/11/058c413a088243158f439f6a33c3cdb4.jpg,0,2,4,1,18,72,6425,Y,Y,Y,Y,0,N,N,,,N
+100000740,다산베아채 CC - 장보고/다산,8,7,전라도,http://uf.gzcdn.net/course/info/202311/2816/11/549e00e9d3ea4cc0a455682fc994050d.jpg,0,2,4,1,18,72,6396,Y,Y,Y,Y,0,N,N,,,N
+100000735,베뉴지 CC - G/NEW,8,8,수도권,http://uf.spazon.com/course/info/202011/0215/47/f7bc87286aa14b9d82fb28473aa21d3d.jpg,2,2,1,1,18,72,6302,Y,Y,Y,Y,0,N,N,,,N
+100000737,베뉴지 CC - HILL/G,9,9,수도권,http://uf.spazon.com/course/info/202011/0215/48/fe65847ef8ce47bc881d1d98e49c496d.jpg,1,2,1,1,18,72,6329,Y,Y,Y,Y,0,N,N,,,N
+100000736,베뉴지 CC - NEW/HILL,9,8,수도권,http://uf.spazon.com/course/info/202011/0215/49/549827e8badb47db9936f22844974bbc.jpg,0,2,1,1,18,72,6161,Y,Y,Y,Y,0,N,N,,,N
+100000734,골드레이크 CC - VALLEY/HILL,8,6,전라도,http://uf.gzcdn.net/course/info/202311/2819/01/d45c650e90f446658d93e6b039d7d12a.jpg,9,2,4,1,18,72,6342,Y,Y,Y,Y,0,N,N,,,N
+100000732,롯데렌터카 GTOUR,9,10,가상CC,http://uf.gzcdn.net/course/info/202311/2819/14/67fb0016bee84df88f740b69d252c8b9.jpg,0,2,0,7,18,72,6454,Y,Y,Y,Y,0,N,N,,,N
+100000730,라싸 GC - LAKE/VALLEY,7,9,수도권,http://uf.gzcdn.net/course/info/202311/2819/24/a83a84275043437c9465985c4f0e14a4.jpg,31,2,1,1,18,72,6528,Y,Y,Y,Y,0,N,N,,,N
+100000731,라싸 GC - VALLEY/MOUNTAIN,7,10,수도권,http://uf.gzcdn.net/course/info/202311/2819/24/e89351c39d7440b694870eb73c28e81d.jpg,0,2,1,1,18,72,6600,Y,Y,Y,Y,0,N,N,,,N
+100300001,골프존카운티 파3 CC,8,8,가상CC,http://uf.gzcdn.net/course/info/202311/2819/33/39b08a4c93ba4e768b11b522dee6a2fb.jpg,0,2,0,8,18,54,2822,N,Y,Y,Y,0,N,N,,,N
+100300002,GGC 파3 CC,8,8,가상CC,http://uf.gzcdn.net/course/info/202311/2819/33/87543f1f916244819c8c92febeaaca5a.jpg,0,2,0,8,18,54,3269,N,Y,Y,Y,0,N,N,,,N
+100000725,통도파인이스트 CC - 북코스,7,8,경상도,http://uf.gzcdn.net/course/info/202311/2819/46/e1d894d82b4044ffb8aa12749617a521.jpg,0,2,5,1,18,72,6167,Y,Y,Y,Y,0,N,N,,,N
+100000726,포웰CC 안성,7,6,수도권,http://uf.gzcdn.net/tournament/clientimages/202501/2203/49/7cb7164a9e9749469b126e0fd1d86fb7.jpg,5,2,1,1,18,72,5806,Y,Y,Y,Y,1,N,N,,,N
+100000727,필로스 CC - EAST/WEST,3,9,수도권,http://uf.gzcdn.net/course/info/202311/2819/34/bc6fddc4ed794d14b09fd7a15cb65c41.jpg,48,2,1,1,18,72,6251,Y,Y,Y,Y,0,N,N,,,N
+100000729,필로스 CC - SOUTH/EAST,7,8,수도권,http://uf.gzcdn.net/course/info/202311/2819/33/ff2d6aa13b524fb397edc4689159ff51.jpg,0,2,1,1,18,72,6185,Y,Y,Y,Y,0,N,N,,,N
+100000728,필로스 CC - WEST/SOUTH,7,6,수도권,http://uf.gzcdn.net/course/info/202311/2819/34/99233706cd0c4b778ade6f08c2a0e90d.jpg,0,2,1,1,18,72,5940,Y,Y,Y,Y,0,N,N,,,N
+100000722,속리산 CC,8,6,충청도,http://uf.gzcdn.net/tournament/clientimages/202505/2609/21/ab7754012988445ca73ad9de0bb63f6e.jpg,0,2,3,1,18,72,6192,Y,Y,Y,Y,0,N,N,,,N
+100000723,클럽디보은,6,6,충청도,http://uf.gzcdn.net/course/info/202311/2818/53/e0b680761318430289d087ecb0be123f.jpg,1,2,3,1,18,72,6153,Y,Y,Y,Y,0,N,N,,,N
+100000717,GTOUR 마운틴,9,10,가상CC,http://uf.gzcdn.net/course/info/202311/2819/17/860fb3ad21e54b36b7f42cb7dfb8d166.jpg,0,2,0,7,18,72,6635,Y,Y,Y,Y,0,N,N,,,N
+100000719,라싸 GC - MOUNTAIN/LAKE,6,10,수도권,http://uf.gzcdn.net/course/info/202311/2819/23/83edb11c8a284724af0d0357066b1dfc.jpg,2,2,1,1,18,72,6774,Y,Y,Y,Y,1,N,N,,,N
+100000710,골프존카운티 진천 - LAKE/MOUNTAIN,7,9,충청도,http://uf.gzcdn.net/course/info/202311/2818/46/709e0d62f8c549698e1ab13e54abb6e1.jpg,0,2,3,1,18,72,6433,Y,Y,Y,Y,0,Y,N,,,N
+100000712,골프존카운티 진천 - MOUNTAIN/VALLEY,8,9,충청도,http://uf.gzcdn.net/course/info/202311/2818/46/21de99258abc4956b2ec4f0fe418ddaf.jpg,0,2,3,1,18,72,6302,Y,Y,Y,Y,0,Y,N,,,N
+100000711,골프존카운티 진천 - VALLEY/LAKE,8,9,충청도,http://uf.gzcdn.net/course/info/202311/2818/46/5ce75c7987c8405d8fdef5497a645581.jpg,0,2,3,1,18,72,6297,Y,Y,Y,Y,0,Y,N,,,N
+100000703,센추리 21CC - 밸리/마운틴,7,7,강원도,http://uf.gzcdn.net/course/info/202311/2818/47/1bd2c5c6c4a64c50b3f62a6def0b6afd.jpg,2,2,2,1,18,72,5826,Y,Y,Y,Y,0,N,N,,,N
+100000704,센추리 21CC - 필드/마운틴,7,6,강원도,http://uf.gzcdn.net/course/info/202311/2818/47/92280433a32a4f58b4361e6428c30cbf.jpg,7,2,2,1,18,72,5962,Y,Y,Y,Y,0,N,N,,,N
+100000702,센추리 21CC - 필드/밸리,7,9,강원도,http://uf.gzcdn.net/course/info/202311/2818/48/b62a4a805a62422eb7b388adb3b9e016.jpg,0,2,2,1,18,72,6240,Y,Y,Y,Y,0,N,N,,,N
+100000691,소피아그린 CC - 세종/여강,6,6,수도권,http://uf.gzcdn.net/course/info/202311/2819/43/9c32287e81ce44bf97b31160a68a6ee8.jpg,1,2,1,1,18,72,6173,Y,Y,Y,Y,0,N,N,,,N
+100000692,소피아그린 CC - 여강/황학,4,6,수도권,http://uf.gzcdn.net/course/info/202311/2819/43/4e7e8efd609f499589e26050a25030c9.jpg,0,2,1,1,18,72,6216,Y,Y,Y,Y,0,N,N,,,N
+100000693,소피아그린 CC - 황학/세종,6,6,수도권,http://uf.gzcdn.net/course/info/202311/2819/42/01d5924deb354457b4cc20901ba2e71a.jpg,0,2,1,1,18,72,6273,Y,Y,Y,Y,0,N,N,,,N
+100000697,가평 베네스트 GC - BIRCH/MAPLE,7,8,수도권,http://uf.gzcdn.net/course/info/202311/2819/09/d4ad00f703974c69aa1818f25b7c515e.jpg,0,2,1,1,18,72,6357,Y,Y,Y,Y,0,N,N,,,N
+100000696,가평 베네스트 GC - MAPLE/PINE,5,6,수도권,http://uf.gzcdn.net/course/info/202311/2819/09/4bc485199c684b0ba2f4461a3461e352.jpg,0,2,1,1,18,72,6451,Y,Y,Y,Y,0,N,N,,,N
+100000698,가평 베네스트 GC - PINE/BIRCH,6,8,수도권,http://uf.gzcdn.net/course/info/202311/2819/09/ababfc3692da482e8ba5cbbcb167dde6.jpg,0,2,1,1,18,72,6384,Y,Y,Y,Y,0,N,N,,,N
+100000715,골프존카운티 사천 - 다솔/비룡,8,6,경상도,http://uf.gzcdn.net/course/info/202311/2819/38/b72a37960191401d873589f5e39ffdba.jpg,0,2,5,1,18,72,6187,Y,Y,Y,Y,0,Y,N,,,N
+100000713,골프존카운티 사천 - 다솔/비토,8,6,경상도,http://uf.gzcdn.net/course/info/202311/2819/39/f3642a7d5ef14648a6d46c0aeff88413.jpg,0,2,5,1,18,72,6351,Y,Y,Y,Y,0,Y,N,,,N
+100000714,골프존카운티 사천 - 비토/비룡,7,8,경상도,http://uf.gzcdn.net/course/info/202311/2819/38/8462d3de44094230a7c71f49321b344c.jpg,0,2,5,1,18,72,6268,Y,Y,Y,Y,0,Y,N,,,N
+100000700,오션비치 CC - BEACH/OCEAN,7,7,경상도,http://uf.gzcdn.net/course/info/202311/2819/28/a8209bec30d64d9a8f171bf7cf54f0b1.jpg,0,2,5,1,18,72,6235,Y,Y,Y,Y,0,N,N,,,N
+100000699,오션비치 CC - OCEAN/VALLEY,6,6,경상도,http://uf.gzcdn.net/course/info/202311/2819/29/faed70a8af414ff9a54cb7a70c4c1719.jpg,0,2,5,1,18,72,6191,Y,Y,Y,Y,0,N,N,,,N
+100000701,오션비치 CC - VALLEY/BEACH,7,6,경상도,http://uf.gzcdn.net/course/info/202311/2819/28/e9457bd421ef4a44891c8129e4a57b63.jpg,0,2,5,1,18,72,6080,Y,Y,Y,Y,0,N,N,,,N
+100000682,양산 동원로얄 CC,6,2,경상도,http://uf.gzcdn.net/course/info/202311/2818/56/87c896fb9ac84984b8fd44424aebc84c.jpg,1,2,5,1,18,72,5898,Y,Y,Y,Y,1,N,N,,,N
+100000678,피닉스골프리조트 - 피닉스코스,7,8,베트남,http://uf.spazon.com/tournament/clientimages/202607/1516/29/9d0214a7a7b14de892da6bee18c32bd2.jpg,0,2,0,16,18,72,6595,Y,Y,Y,Y,0,N,N,,,N
+100000674,마스터즈클럽 L,4,10,가상CC,http://uf.gzcdn.net/course/info/202311/2819/16/aee57b358287448c9f77efbf1187d626.jpg,0,2,0,7,18,72,7629,Y,Y,Y,Y,0,N,N,,,N
+100000673,마스터즈클럽 L PRO,10,10,가상CC,http://uf.gzcdn.net/course/info/202311/2819/17/0a26bb0b03ec47d595459e98e95e0e9b.jpg,5,2,0,7,18,72,7629,Y,Y,Y,Y,0,N,N,,,N
+100006004,피닉스골프리조트 - 챔피언코스,10,8,베트남,http://uf.spazon.com/tournament/clientimages/202607/1516/29/838e545896614f9ca300d4404f14ed0e.jpg,0,2,0,16,18,72,6795,Y,Y,Y,Y,0,N,N,,,N
+100000928,다이아몬드 CC,5,8,경상도,http://uf.gzcdn.net/tournament/clientimages/202610/1408/08/4366d5308cca4f21a9839e6fb3c594de.jpg,4,2,5,1,18,72,6212,Y,Y,Y,Y,1,Y,N,,,N
+100000744,석정힐 CC,8,7,전라도,http://uf.gzcdn.net/course/info/202203/2903/11/d5bb11dff71f4bc5ba13b127eb3a8c02.jpg,0,2,4,1,18,72,5831,Y,Y,Y,Y,0,N,N,,,N
+100000667,마스터즈 클럽 레이크 CC,8,10,가상CC,http://uf.gzcdn.net/course/info/202311/2819/15/cf438577ea3145a28ec2e02f12b3c83c.jpg,1,2,0,7,18,72,7084,Y,Y,Y,Y,0,N,N,,,N
+100000724,통도파인이스트 CC - 남코스,4,8,경상도,http://uf.gzcdn.net/course/info/202311/2819/45/093f307014d54e4381b5fa48f3ca575e.jpg,0,2,5,1,18,72,6705,Y,Y,Y,Y,0,N,N,,,N
+100000718,360도 CC,9,7,수도권,http://uf.gzcdn.net/course/info/202311/2818/37/4864e5d417064ac19ab52705098e7575.jpg,29,2,1,1,18,72,6278,Y,Y,Y,Y,0,Y,N,,,N
+100000789,세레니티 강촌 CC,8,6,강원도,http://uf.gzcdn.net/tournament/clientimages/202603/1005/00/c4537f25dde54a728ed7b47bcaa80217.jpg,0,2,2,1,18,72,6127,Y,Y,Y,Y,1,N,N,,,N
+100000675,세븐밸리컨트리클럽&리조트,8,9,경상도,http://uf.spazon.com/course/info/201810/2313/56/b4e2b7df0c9f498b99fa277cc2fe4517.jpg,1,2,5,1,18,72,6502,Y,Y,Y,Y,1,Y,N,,,N
+100000716,골프존카운티 경남,8,8,경상도,http://uf.gzcdn.net/course/info/202311/2819/23/6403caea63e245e1b68f78a722cb5197.jpg,4,2,5,1,18,72,6148,Y,Y,Y,Y,0,Y,N,,,N
+100000679,문경 GC,7,6,경상도,http://uf.gzcdn.net/course/info/202311/2819/25/b8957d21584b420f9e393a8b7f2a09ff.jpg,4,2,5,1,18,72,6425,Y,Y,Y,Y,0,N,N,,,N
+100000666,코브스윙 GC,8,9,수도권,http://uf.spazon.com/tournament/clientimages/202601/2913/57/2de0971fb7e64ce19d05592ef3031779.jpg,8,2,1,1,18,72,6266,Y,Y,Y,Y,0,N,N,,,N
+100000664,마스터즈 클럽 포레스트 CC,10,10,가상CC,http://uf.gzcdn.net/course/info/202311/2819/15/6fbc838ade2241ffa2bb2f90c5c8e445.jpg,1,2,0,7,18,72,7233,Y,Y,Y,Y,0,N,N,,,N
+100000611,마스터즈 제주 GGC,7,9,가상CC,http://uf.gzcdn.net/course/info/202311/2819/35/35668cf77bf7406681954b1d2f178d9b.jpg,2,2,0,7,18,72,6590,Y,Y,Y,Y,0,N,N,,,N
+100000660,마스터즈 클럽 밸리 CC,8,9,가상CC,http://uf.gzcdn.net/course/info/202311/2819/15/b27070b107d743aba2e2a401118696f4.jpg,28,2,0,7,18,72,6725,Y,Y,Y,Y,0,N,N,,,N
+100000631,의성 GGC,7,10,가상CC,http://uf.gzcdn.net/course/info/202311/2819/25/8ee390be790d443dac9d27be3af22bd5.jpg,3,2,0,7,18,72,6350,N,Y,Y,Y,0,N,N,,,N
+100001102,해남 비치 GGC,10,9,가상CC,http://uf.gzcdn.net/tournament/clientimages/202610/1313/26/302f7048b23c4a6d9fd92e229acc1857.jpg,0,2,0,7,18,72,6677,N,Y,Y,Y,0,N,N,,,N
+100000661,홍콩 GC - 유러피언투어,7,8,중국,http://uf.gzcdn.net/course/info/202311/2819/19/4e04991ae95f4782bb154c882b4d479a.jpg,2,2,0,3,18,72,6047,Y,Y,Y,Y,0,N,N,,,N
+100000648,마스터즈 클럽 마운틴 CC,8,10,가상CC,http://uf.gzcdn.net/course/info/202311/2819/15/a2f4b3b60f9f42bdb2cc0a96f58b6724.jpg,5,2,0,7,18,72,6855,Y,Y,Y,Y,0,N,N,,,N
+100000633,정선 마운틴 GGC,9,8,가상CC,http://uf.gzcdn.net/course/info/202311/2819/21/273e5e1f956242a49af4a4e7cbbc17fd.jpg,3,2,0,7,18,72,6511,N,Y,Y,Y,0,N,N,,,N
+100001104,대관령힐스 GGC,8,9,가상CC,http://uf.gzcdn.net/tournament/clientimages/202610/1313/24/2a6c070d6eb945369e938d00b76617b1.jpg,0,2,0,7,18,72,6707,N,Y,Y,Y,0,N,N,,,N
+100001105,안산아일랜드 GGC ,9,6,가상CC,http://uf.gzcdn.net/tournament/clientimages/202610/1313/23/a508c6bdaed44684bb0c94314adae813.jpg,0,2,0,7,18,72,6619,N,Y,Y,Y,0,N,N,,,N
+100001106,함평 GGC,6,9,가상CC,http://uf.gzcdn.net/tournament/clientimages/202610/1313/23/2a5e6aa8e0ed408fa6cbfb516c0a6464.jpg,0,2,0,7,18,72,6600,N,Y,Y,Y,0,N,N,,,N
+100000627,북대구 GGC,7,8,가상CC,http://uf.gzcdn.net/course/info/202112/1616/32/17694609d6224e5a9dc37cad6f72afbc.jpg,2,2,0,7,18,72,6298,N,Y,Y,Y,0,N,N,,,N
+100000622,블루베이 포항 GGC,7,9,가상CC,http://uf.gzcdn.net/course/info/202112/1616/31/95ee65855b124d62a9b80de49e311085.jpg,0,2,0,7,18,72,6266,N,Y,Y,Y,0,N,N,,,N
+100000615,경주 GGC,9,7,가상CC,http://uf.gzcdn.net/course/info/202112/1616/36/16febe506a654cc0b51010594c48eb71.jpg,4,2,0,7,18,72,6046,N,Y,Y,Y,0,N,N,,,N
+100000623,사우스스프링스 CC,8,7,수도권,http://uf.gzcdn.net/course/info/202112/1616/32/30fda52fc7a54308ab61ed077d39d4ea.jpg,43,2,1,1,18,72,6631,Y,Y,Y,Y,0,N,N,,,N
+100001103,양산 GGC,6,9,가상CC,http://uf.gzcdn.net/tournament/clientimages/202610/1313/25/d46435f8b148467ba54efa5781cd7231.jpg,0,2,0,7,18,72,6612,Y,Y,Y,Y,0,N,N,,,N
+100000608,북사천 GGC,8,9,가상CC,http://uf.gzcdn.net/course/info/202112/1616/29/09c427cb950345a3abc837c83ae816e3.jpg,22,2,0,7,18,72,6127,Y,Y,Y,Y,0,N,N,,,N
+100000613,소노펠리체CC 델피노,8,6,강원도,http://uf.gzcdn.net/course/info/202205/1706/08/7e3f9dde1e31475b8b623734c642e577.jpg,4,2,2,1,18,72,5896,Y,Y,Y,Y,0,N,N,,,N
+100000607,리오 GGC,8,10,가상CC,http://uf.gzcdn.net/course/info/202112/1616/29/a6e0c8ee69f349d0bb1a050be0cd066d.jpg,13,2,0,7,18,71,6135,Y,Y,Y,Y,0,N,N,,,N
+100000603,여주 캐슬 GGC,8,9,가상CC,http://uf.gzcdn.net/course/info/202112/1616/28/0a824bdf04da4cb9a915b48fd9d3bdd6.jpg,19,2,0,7,18,72,6233,Y,Y,Y,Y,0,N,N,,,N
+100000606,장호원 GGC,6,9,가상CC,http://uf.gzcdn.net/course/info/202112/1616/29/7bf0a623d29646afa351b2f47f7ac017.jpg,16,2,0,7,18,72,6108,Y,Y,Y,Y,0,N,N,,,N
+100000605,합천 GGC,9,7,가상CC,http://uf.gzcdn.net/course/info/202112/1616/29/d7bf174b7e114827aefb3200b09ee204.jpg,8,2,0,7,18,72,6577,Y,Y,Y,Y,0,N,N,,,N
+100000501,통영 동원로얄 CC,9,8,경상도,http://uf.gzcdn.net/course/info/202311/2818/54/b9f4fde6bcba44a9b1ab0add0924e1ed.jpg,10,2,5,1,18,72,6140,Y,Y,Y,Y,0,N,N,,,N
+100000600,진천 밸리 GGC,8,9,가상CC,http://uf.gzcdn.net/course/info/202311/2818/46/8de2f79cefd84703808a3c3c9e79aa30.jpg,57,2,0,7,18,72,6489,Y,Y,Y,Y,0,N,N,,,N
+100000478,골프존카운티 청통,5,3,경상도,http://uf.gzcdn.net/course/info/202311/2818/49/4f3a913597ca4941839858fef3272151.jpg,11,2,5,1,18,72,6048,Y,Y,Y,Y,0,N,N,,,N
+100000685,골프존카운티 더골프,9,7,경상도,http://uf.gzcdn.net/course/info/202312/1905/30/5b5e3dcbbcd14a788fdfb4f06561a890.jpg,7,2,5,1,18,72,5700,Y,Y,Y,Y,0,N,N,,,N
+100000683,스톤게이트 CC,8,6,경상도,http://uf.gzcdn.net/course/info/202311/2819/42/0b41ac0c8f0142bfb2986abac1dc1be0.jpg,0,2,5,1,18,72,6415,Y,Y,Y,Y,1,N,N,,,N
+100000681,파라지오 CC,8,4,경상도,http://uf.gzcdn.net/course/info/202311/2819/34/a008ab1d685b4b2cbef8d4d0defa4a5c.jpg,18,2,5,1,18,72,6087,Y,Y,Y,Y,1,N,N,,,N
+100000453,드림 파크 CC,4,6,수도권,http://uf.gzcdn.net/course/info/202311/2818/56/171fa7f6b69946cf93a6b5fa0f0645e7.jpg,30,2,1,1,18,72,6401,Y,Y,Y,Y,0,N,N,,,N
+100000436,골프존카운티 안성H,7,7,수도권,http://uf.spazon.com/course/info/202304/0710/21/26616de7a8f140d49a9e8229c0fa81d4.jpg,96,2,1,1,18,72,6376,Y,Y,Y,Y,0,Y,N,,,N
+100000168,스카이뷰,8,9,경상도,http://uf.gzcdn.net/course/info/202112/1616/23/a578cc802db747ec8466ffe46449b33f.jpg,99,2,5,1,18,72,6367,Y,Y,Y,Y,0,N,N,100000168.0,,N
+100000178,여수 시티파크,7,7,전라도,http://uf.gzcdn.net/course/info/202302/2104/50/e36127b72a3e4b1ea799dbef6205f5e1.png,76,2,4,1,18,72,6248,Y,Y,Y,Y,0,Y,N,,,N
+100000430,디오션 CC,7,5,전라도,http://uf.gzcdn.net/course/info/202112/1616/26/b72b33a02f1e4747ae8d32c96c4ada96.jpg,23,2,4,1,18,72,6058,Y,Y,Y,Y,1,Y,N,,,N
+100000429,동촌 GC,8,6,충청도,http://uf.gzcdn.net/tournament/clientimages/202508/0613/20/d8ca1918a2fa45f3a5ee359d717f26f6.jpg,23,2,3,1,18,72,6546,Y,Y,Y,Y,0,N,N,,,N
+100000291,팔공,3,8,경상도,http://uf.gzcdn.net/course/info/202311/2819/31/ab2b486b98684965a12df304b38c18f1.jpg,1,2,5,1,18,72,6043,Y,Y,Y,Y,0,N,N,,,N
+100000122,골프존카운티 무주,7,7,전라도,http://uf.gzcdn.net/course/info/202311/2819/25/35a924b11df44b45a1dd2f9b5b1e850f.jpg,50,2,4,1,18,72,6188,Y,Y,Y,Y,0,Y,N,,,N
+100000423,동훈힐마루 CC,8,8,경상도,http://uf.gzcdn.net/course/info/202112/1616/26/4af960ffd4d04c3ea1890457a85141b8.jpg,38,2,5,1,36,144,12978,Y,Y,Y,Y,0,Y,N,,,N
+100000420,써닝포인트 CC,8,7,수도권,http://uf.gzcdn.net/course/info/202311/2819/44/8d557efa90ab46ca83793c43c33f903a.jpg,70,2,1,1,18,73,6533,Y,Y,Y,Y,0,Y,N,,,N
+100000269,청우 GC,8,8,강원도,http://uf.gzcdn.net/course/info/202112/1616/24/9a87de09b1fd4a59bed5b60cfba300d9.jpg,66,2,2,1,18,72,6366,Y,Y,Y,Y,0,N,N,,,N
+100000394,마스터즈 클럽 아일랜드CC,8,10,가상CC,http://uf.gzcdn.net/course/info/202112/1616/25/8822dd1866f34b28971417574c35aea6.jpg,61,2,0,7,18,72,6857,Y,Y,Y,Y,0,N,N,,,N
+100000401,골프존 이벤트 CC,8,9,가상CC,http://uf.gzcdn.net/course/info/202112/1616/25/ea5f28af81414bee904d3bd2b35302d3.jpg,0,2,0,7,18,72,6508,N,N,N,N,0,N,N,,,N
+100000162,구니 CC,9,8,경상도,http://uf.gzcdn.net/course/info/202302/2104/53/f3f8cc19fd014ca8ba5016a5b57e9bde.png,177,2,5,1,18,72,6298,Y,Y,Y,Y,0,Y,N,,,N
+100001017,노스팜 CC,5,8,수도권,http://uf.gzcdn.net/tournament/clientimages/202504/2810/40/58cb194b38954c7f89d401dd5d52d559.jpg,0,2,1,1,18,72,6206,Y,Y,Y,Y,0,N,N,,,N
+100000362,로얄포레,9,9,충청도,http://uf.gzcdn.net/tournament/clientimages/202503/1211/10/52625699ca394b389c43e101faf27ef6.jpg,232,2,3,1,18,72,6559,Y,Y,Y,Y,0,N,N,,,N
+100000361,벨라스톤 CC,5,6,강원도,http://uf.gzcdn.net/course/info/202302/2104/50/f561f6125e1b46acb75ce8c3b7b6e035.png,69,2,2,1,18,72,6298,Y,Y,Y,Y,1,N,N,,,N
+100000229,용인 CC,7,8,수도권,http://uf.gzcdn.net/tournament/clientimages/202503/1211/06/e6d504311d5c42f89707ed0bd2400608.jpg,159,2,1,1,18,72,5854,Y,Y,Y,Y,0,N,N,100000229.0,,N
+100000299,한맥 C.C & 노블리아,8,8,경상도,http://uf.gzcdn.net/course/info/202211/0104/58/2f97b1b196224f77892777fdcf283762.jpg,48,2,5,1,18,72,6646,Y,Y,Y,Y,1,Y,N,,,N
+100000341,골프존카운티 선운,6,4,전라도,http://uf.gzcdn.net/tournament/clientimages/202509/2210/58/ebb3000b6d254492b6f6cbd6bf0d0b37.jpg,227,2,4,1,18,72,5820,Y,Y,Y,Y,0,Y,N,,,N
+100000217,대호 단양CC,6,5,충청도,http://uf.gzcdn.net/course/info/202311/2818/54/8994d75f97f345c3992bd1df053e852a.jpg,46,2,3,1,18,72,6441,Y,Y,Y,Y,0,N,N,,,N
+100000336,라베 CC,7,2,가상CC,https://i.gzcdn.net/uploadfactory/singleRo/SCC/F4X199QW4QJN.jpg,40,2,0,8,18,72,5656,N,N,N,N,0,N,N,,,N
+100000334,포레스트힐 CC,7,7,수도권,http://uf.gzcdn.net/tournament/clientimages/202511/2411/22/9f17aa2e865c4174ae1a77cb97f599d3.jpg,98,2,1,1,18,72,6632,Y,Y,Y,Y,1,Y,N,,,N
+100000303,한탄강 CC,7,7,강원도,http://uf.gzcdn.net/tournament/clientimages/202503/1211/08/b848c51355b741dd8df46eeaee79a50b.jpg,176,2,2,1,18,72,6065,Y,Y,Y,Y,0,N,N,,,N
+100000100,동원썬밸리 CC,7,7,강원도,http://uf.gzcdn.net/tournament/clientimages/202503/1211/00/ea973c7b0db94dfe8e9587d84b2aeccc.jpg,101,2,2,1,18,72,6507,Y,Y,Y,Y,0,Y,N,,,N
+100000131,보성,7,6,전라도,http://uf.gzcdn.net/tournament/clientimages/202503/1211/01/efee863f6fbb40e493f72cbc29659a37.jpg,137,2,4,1,18,72,6219,Y,Y,Y,Y,0,Y,N,,,N
+100000242,이븐데일,7,4,충청도,http://uf.gzcdn.net/tournament/clientimages/202606/0110/56/7c2c8e5719854335868205fdb2e9459f.jpg,165,2,3,1,18,72,6405,Y,Y,Y,Y,0,N,N,,,N
+100000328,이스트힐 CC,8,7,경상도,http://uf.gzcdn.net/tournament/clientimages/202503/1211/09/cb1211e94e9f4420ae3168f58f0f6a4a.jpg,263,2,5,1,18,72,6083,Y,Y,Y,Y,0,N,N,,,N
+100000251,자유 CC,5,4,수도권,http://uf.gzcdn.net/tournament/clientimages/202503/1211/07/1abee8d5bedc44e6982174c29d189c75.jpg,50,2,1,1,18,72,6393,Y,Y,Y,Y,0,N,N,,,N
+100000133,부곡 CC,6,8,경상도,http://uf.gzcdn.net/course/info/202211/0104/57/8fe83bd0d5644fa18c216d76a710dfdf.jpg,137,2,5,1,18,72,6083,Y,Y,Y,Y,1,Y,N,,,N
+100000197,알펜시아 700 GC,5,6,강원도,http://uf.gzcdn.net/tournament/clientimages/202505/2609/25/b68bfd566e024826a69a2bcbc9c303b9.jpg,433,2,2,1,18,72,5980,Y,Y,Y,Y,0,N,N,,,N
+100000025,고창CC,4,7,전라도,http://uf.gzcdn.net/tournament/clientimages/202506/0408/54/2ed2b31e0d0d4fd9ac65aea0e0f3e8e9.jpg,70,2,4,1,18,72,6376,Y,Y,Y,Y,0,N,N,,,N
+100000027,베어크리크 GC-크리크코스,8,6,수도권,https://i.gzcdn.net/uploadfactory/singleRo/SCC/DOZVRFWVKP73.jpg,154,2,1,1,18,72,6522,Y,Y,Y,Y,0,N,N,,,N
+100000216,오션힐스 청도 GC,7,4,경상도,http://uf.gzcdn.net/course/info/202311/2819/27/d025afb2b98e46aba6fea9e00878dec2.jpg,100,2,5,1,18,72,6455,Y,Y,Y,Y,0,N,N,,,N
+100000050,한림광릉 CC,8,7,수도권,http://uf.gzcdn.net/course/info/202404/3004/39/e27245bd5360414c9b194d8ac081e5ae.jpg,59,2,1,1,18,72,6254,Y,Y,Y,Y,1,N,N,,,N
+100000049,골프클럽 Q,8,6,수도권,http://uf.gzcdn.net/course/info/202405/2804/53/3d6294d0469942d1908080a15343e0e3.jpg,151,2,1,1,18,72,6554,Y,Y,Y,Y,1,Y,N,,,N
+100000333,골프존카운티 화랑,8,7,충청도,http://uf.gzcdn.net/course/info/202311/2818/53/db686c8fb4d0491d8c90afd6d36954a0.jpg,147,2,3,1,18,72,6593,Y,Y,Y,Y,1,Y,N,,,N
+100000019,대영 베이스 CC,6,7,충청도,https://i.gzcdn.net/uploadfactory/singleRo/SCC/LYA4QRTTY4S7.jpg,84,2,3,1,18,72,6353,Y,Y,Y,Y,0,N,N,,,N
+100000165,포항CC,9,5,경상도,http://uf.gzcdn.net/course/info/202301/1814/10/7c31ebfe12d740dab4882fcaa59deeff.jpg,65,2,5,1,18,72,6612,Y,Y,Y,Y,1,N,N,,,N
+100000071,김포 SEASIDE,5,8,수도권,http://uf.gzcdn.net/course/info/202211/0104/57/3764bfc8106c4e188ddc7857af4f8a7c.jpg,21,2,1,1,18,72,6378,Y,Y,Y,Y,0,N,N,,,N
+100000017,파크밸리 CC,5,7,강원도,http://uf.gzcdn.net/course/info/202211/0104/58/a36e2d15b94644b1a76153a9b8c4a827.jpg,66,2,2,1,18,72,5946,Y,Y,Y,Y,0,N,N,,,N
+102097156,더 시에나 서울 CC,4,7,수도권,http://uf.gzcdn.net/tournament/clientimages/202512/1510/50/e5e4e507a08f400cab05fe42bcc862ca.jpg,285,2,1,1,18,72,6170,Y,Y,Y,Y,0,N,N,,,N
+100000293,포천힐스 CC,8,6,수도권,https://i.gzcdn.net/uploadfactory/singleRo/SCC/AQRURRW4QEH8.jpg,19,2,1,1,27,108,9549,Y,Y,Y,Y,0,N,N,,,N
+100000307,해비치 서울,8,8,수도권,http://uf.gzcdn.net/tournament/clientimages/202504/2810/42/c4521c64e60e4c62b01e62fb9725c483.jpg,499,2,1,1,18,72,6425,Y,Y,Y,Y,0,Y,N,,,N
+100000021,화순엘리체 CC,2,7,전라도,http://uf.gzcdn.net/course/info/202209/2004/17/78485bc3495a45cd9bb4ef0bba11b322.jpg,91,2,4,1,18,72,6118,Y,Y,Y,Y,1,N,N,,,N
+100000016,동경가상CC,6,10,가상CC,http://uf.gzcdn.net/course/info/202112/1616/21/6c3ba95d1214427881721edc94242555.jpg,0,2,0,7,18,72,6353,N,N,N,N,0,N,N,,,N
+100000012,서울가상CC,5,10,가상CC,http://uf.gzcdn.net/course/info/202112/1616/22/5b84eb4ea12c4bf9bc3dd9c87ed776fe.jpg,16,2,0,7,18,72,6790,N,N,N,N,0,N,N,,,N
+100000008,테디밸리CC,8,8,제주도,http://uf.gzcdn.net/course/info/202311/2819/44/4c1efa4c805442d196d8bb92ba5fc5d7.jpg,28,2,6,1,18,72,6711,Y,Y,Y,Y,0,Y,N,,,N
+100000022,웨스트오션 CC,6,7,전라도,http://uf.gzcdn.net/course/info/202311/2819/49/af58372ef53a4264a950f4ffd69363f2.jpg,125,2,4,1,18,72,6220,Y,Y,Y,Y,0,N,N,,,N
+102162689,아크로 CC,8,6,전라도,http://uf.gzcdn.net/course/info/202302/2104/49/f33807ff8f5849489927f78746f1e931.png,153,2,4,1,18,72,6785,Y,Y,Y,Y,0,N,N,,,N
+100000006,볼카노골프앤리조트 CC,4,4,제주도,http://uf.gzcdn.net/course/info/202403/2605/06/b515fbf64cfd4fb7bf080f462e042023.jpg,122,2,6,1,18,72,6268,Y,Y,Y,Y,0,N,N,,,N
+100000002,캐슬렉스 제주 GC,7,6,제주도,http://uf.gzcdn.net/course/info/202303/2805/27/782469cede4346dfa42592741172c176.jpg,73,2,6,1,18,72,6321,Y,Y,Y,Y,0,N,N,,,N
+102228232,골프존카운티 안성W,6,6,수도권,http://uf.gzcdn.net/course/info/202311/2819/48/bd1f55e9fc2949acb4ec250216023ad2.jpg,224,2,1,1,18,72,5463,Y,Y,Y,Y,1,Y,N,,,N
+102301952,골드레이크 CC - GOLD/LAKE,7,8,전라도,http://uf.gzcdn.net/tournament/clientimages/202503/1211/19/917035b56d9e4d2995bcc7832f6c4672.jpg,118,2,4,1,18,72,6428,Y,Y,Y,Y,0,N,N,,,N
+102294784,캐슬파인 GC,8,9,수도권,http://uf.spazon.com/tournament/clientimages/202411/0608/24/ff6910c546dd4e649c46fd70ea88c1e5.jpg,220,2,1,1,18,72,6176,Y,Y,Y,Y,1,N,N,,,N
+102297856,상떼힐 익산 CC,4,8,전라도,https://i.gzcdn.net/uploadfactory/singleRo/SCC/YN3XSHBH3JWI.jpg,52,2,4,1,18,72,6256,Y,Y,Y,Y,0,N,N,,,N
+102293888,라헨느 리조트,5,7,제주도,http://uf.gzcdn.net/tournament/clientimages/202606/0110/56/f95087faec4d4b3aa142cfbfce822824.jpg,118,2,6,1,18,72,6325,Y,Y,Y,Y,0,N,N,,,N
+102293764,골프존카운티 구미,2,2,경상도,http://uf.gzcdn.net/course/info/202311/2819/21/a5ef5946bad34c7bb4aa371b407b1a24.jpg,218,2,5,1,18,71,4969,Y,Y,Y,Y,0,Y,N,,,N
+102367488,플라자 CC 설악,6,9,강원도,http://uf.gzcdn.net/tournament/clientimages/202409/2411/37/1d81598a09ae419ea112dd53615599f1.jpg,43,2,2,1,18,72,6285,Y,Y,Y,Y,0,N,N,,,N
+102359424,골프존카운티 감포,6,6,경상도,http://uf.gzcdn.net/course/info/202202/2514/30/72fb23e96244458cada8d738528fded5.jpg,29,2,5,1,18,72,6077,Y,Y,Y,Y,0,Y,N,,,N
+102361344,포웰CC  프린세스,7,7,충청도,http://uf.gzcdn.net/tournament/clientimages/202509/2210/58/4dccd4682f5f4341897be33225183511.jpg,198,2,3,1,18,72,5664,Y,Y,Y,Y,0,Y,N,,,N
+102359304,남여주 GC,4,6,수도권,https://i.gzcdn.net/uploadfactory/singleRo/SCC/ICBPHXBM41EB.jpg,87,2,1,1,18,72,6275,Y,Y,Y,Y,0,N,N,,,N
+102359312,태인 CC,8,8,전라도,http://uf.gzcdn.net/course/info/202311/2819/45/516b038a6cc1412299de756d583b75b1.jpg,171,2,4,1,18,72,6184,Y,Y,Y,Y,0,N,N,,,N
+102359300,임페리얼레이크 CC,8,7,충청도,https://i.gzcdn.net/uploadfactory/singleRo/SCC/IA0VMRTDS6RO.jpg,131,2,3,1,18,72,6157,Y,Y,Y,Y,0,N,N,,,N
+100000967,화순 CC - AUTUMN/SPRING,9,6,전라도,http://uf.spazon.com/tournament/clientimages/202408/0710/19/fdbe5569e40c48e7add9bd5ec0e6a7f8.jpg,0,2,4,1,18,72,6223,Y,Y,Y,Y,0,N,N,,,N
+102492416,무안 CC - 남코스,5,6,전라도,https://i.gzcdn.net/uploadfactory/singleRo/SCC/PLIZWMRPSBLH.jpg,87,2,4,1,18,73,6068,Y,Y,Y,Y,0,N,N,,,N
+102491392,무안 CC - 서코스,4,6,전라도,https://i.gzcdn.net/uploadfactory/singleRo/SCC/S973IN05WJYK.jpg,43,2,4,1,18,72,6233,Y,Y,Y,Y,0,N,N,,,N
+102424836,골프존카운티 이든,6,6,경상도,http://uf.gzcdn.net/tournament/clientimages/202606/2306/07/a204d0e18f354c09968c970abe6efbe6.jpg,338,2,5,1,18,72,6493,Y,Y,Y,Y,0,N,N,,,N
+102490370,골프존카운티 선산,3,6,경상도,http://uf.gzcdn.net/course/info/202202/2114/45/f69d9d4de321451d97e9c6bc1e81025a.jpg,146,2,5,1,18,72,6436,Y,Y,Y,Y,0,Y,N,,,N
+102621448,남촌 CC,6,6,수도권,http://uf.gzcdn.net/course/info/202302/2104/51/2c711fc0fdf3421db3d9961ef17f69ba.png,364,2,1,1,18,72,6358,Y,Y,Y,Y,0,N,N,,,N
+102490496,롯데스카이힐 성주CC,7,4,경상도,http://uf.gzcdn.net/tournament/clientimages/202608/0407/38/231a33a0b73942e382aebd036dc004b7.jpg,87,2,5,1,18,72,6528,N,Y,Y,Y,0,N,N,,,N
+102490624,무안 CC - 동코스,7,9,전라도,https://i.gzcdn.net/uploadfactory/singleRo/SCC/VC3T4MZP8ZMA.jpg,50,2,4,1,18,72,6487,Y,Y,Y,Y,0,N,N,,,N
+102623488,보문 GC,3,6,경상도,https://i.gzcdn.net/uploadfactory/singleRo/SCC/QJZALZXUS0K9.jpg,104,2,5,1,18,72,6017,N,Y,Y,Y,0,N,N,,,N
+102949121,서서울 CC,6,7,수도권,http://uf.gzcdn.net/course/info/202311/2819/40/c4bd4a94f79e451f8cc6e59c833fe9d8.jpg,177,2,1,1,18,72,5919,Y,Y,Y,Y,0,N,N,,,N
+102556928,세인트 앤드류스 - 올드 코스,8,6,유럽,https://i.gzcdn.net/uploadfactory/singleRo/SCC/YKGOQB7PAHHQ.JPG,29,2,0,5,18,72,6415,Y,Y,Y,Y,0,N,N,,,N
+103866625,센추리 21CC - 파인/레이크,6,8,강원도,http://uf.gzcdn.net/tournament/clientimages/202609/0110/24/b1af3fd335c645f1adea28fa1b91af4d.jpg,198,2,2,1,18,72,6359,Y,Y,Y,Y,1,N,N,,,N
+102621952,타이시 CC,7,3,일본,https://i.gzcdn.net/uploadfactory/singleRo/SCC/AR4Q7XOCQQ21.jpg,109,2,0,2,18,71,6071,N,N,N,N,0,N,N,,,N
+102621472,티클라우드CC,8,9,수도권,http://uf.gzcdn.net/course/info/202311/2818/57/6592e3f8b2de4a30beb90d8be087e598.jpg,224,2,1,1,18,72,6342,Y,Y,Y,Y,0,N,N,,,N
+102818049,페블비치 GL,5,10,미국,http://uf.spazon.com/course/info/202302/1313/45/cb1ea3a35ab54a2096d05911f7159b10.jpg,39,2,0,4,18,72,6238,Y,Y,Y,Y,0,Y,N,,,N
+102555905,하이원 CC,7,8,강원도,http://uf.gzcdn.net/course/info/202302/2104/51/820f9d66e3854c21adbc8871cc875ad5.png,926,2,2,1,18,72,6492,Y,Y,Y,Y,0,N,N,,,N
+102637824,휘닉스 CC,5,5,강원도,http://uf.gzcdn.net/tournament/clientimages/202505/2609/29/b12cc950ae314db19238e2a9cf1e972f.jpg,195,2,2,1,18,72,6357,Y,Y,Y,Y,0,N,N,,,N
+102572288,H1 CLUB,4,8,수도권,http://uf.gzcdn.net/course/info/202309/1904/32/882b422e90834f2ebd5bd1f205f9434f.jpg,105,2,1,1,18,72,5947,Y,Y,Y,Y,0,N,N,,,N
