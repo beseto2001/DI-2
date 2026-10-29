@@ -2,3 +2,4 @@
 .vscode/
 wine+quality/*.names
 wine+quality/*.csv
+GolfZone/*.csv
