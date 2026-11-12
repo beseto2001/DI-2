@@ -1,0 +1,8 @@
+.conda/
+.vscode/
+wine+quality/*.names
+wine+quality/*.csv
+web/ßGolfZone/*.csv
+.DS_Store
+통계/data_set/
+.DS_Store
